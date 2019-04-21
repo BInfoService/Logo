@@ -10,30 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="541.28644"
-   height="261.09207"
-   id="svg3217"
+   width="419.914"
+   height="205.52432"
+   id="svg3904"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
    version="1.0"
-   sodipodi:docname="logo_v0.94.svg"
-   inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/Users/brunoboissonnet/Documents/autoentrepreneur/B2Info/logo/B2Info/logo_v0.94.png"
-   inkscape:export-xdpi="89"
-   inkscape:export-ydpi="89">
+   sodipodi:docname="logo_v1.0.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <defs
-     id="defs3219">
-    <linearGradient
-       id="linearGradient3336">
-      <stop
-         style="stop-color:#28170b;stop-opacity:1;"
-         offset="0"
-         id="stop3338" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop3340" />
-    </linearGradient>
+     id="defs3906">
     <linearGradient
        id="linearGradient3805">
       <stop
@@ -46,151 +32,22 @@
          style="stop-color:#140b05;stop-opacity:0.49803922;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient3797">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop3799" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop3801" />
-    </linearGradient>
+       inkscape:collect="always"
+       xlink:href="#linearGradient3805"
+       id="linearGradient3886"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0454227,-0.00208771,-5.6029267e-4,0.07969918,-1.7543718,34.204571)"
+       x1="440.56674"
+       y1="592.36816"
+       x2="384.67825"
+       y2="710.83832" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 526.18109 : 1"
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_z="744.09448 : 526.18109 : 1"
        inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective3225" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3797"
-       id="linearGradient3803"
-       x1="761.57123"
-       y1="291.89624"
-       x2="360.97174"
-       y2="542.1825"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3805"
-       id="linearGradient3811"
-       x1="506.80038"
-       y1="615.9707"
-       x2="298.10413"
-       y2="606.47168"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3805"
-       id="linearGradient3813"
-       gradientUnits="userSpaceOnUse"
-       x1="373.25977"
-       y1="509.65094"
-       x2="253.53117"
-       y2="634.54425"
-       gradientTransform="matrix(0.9999492,0,-1.5449395e-8,1.137935,-171.37379,-118.10748)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3797"
-       id="linearGradient3823"
-       gradientUnits="userSpaceOnUse"
-       x1="761.57123"
-       y1="291.89624"
-       x2="360.97174"
-       y2="542.1825"
-       gradientTransform="translate(-193.25245,-26.053587)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3805"
-       id="linearGradient3833"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9999492,0,-1.5449395e-8,1.137935,-171.37379,-118.10748)"
-       x1="373.25977"
-       y1="509.65094"
-       x2="253.53117"
-       y2="634.54425" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3797"
-       id="linearGradient3835"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-193.25245,-26.053587)"
-       x1="761.57123"
-       y1="291.89624"
-       x2="360.97174"
-       y2="542.1825" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3797"
-       id="linearGradient3858"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4596461,0,0,0.4596461,-180.12655,188.50109)"
-       x1="761.57123"
-       y1="291.89624"
-       x2="360.97174"
-       y2="542.1825" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3805"
-       id="linearGradient3861"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4596227,0,0,0.5230474,-165.89037,145.04934)"
-       x1="373.25977"
-       y1="509.65094"
-       x2="253.53117"
-       y2="634.54425" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3805"
-       id="linearGradient3293"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4596227,0,0,0.5230474,-165.89037,145.04934)"
-       x1="373.25977"
-       y1="509.65094"
-       x2="253.53117"
-       y2="634.54425" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3797"
-       id="linearGradient3295"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4596461,0,0,0.4596461,-180.12655,188.50109)"
-       x1="761.57123"
-       y1="291.89624"
-       x2="360.97174"
-       y2="542.1825" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3797"
-       id="linearGradient3302"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4596461,0,0,0.4596461,-127.43381,-58.705676)"
-       x1="761.57123"
-       y1="291.89624"
-       x2="360.97174"
-       y2="542.1825" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3805"
-       id="linearGradient3333"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.1825418,-0.00838995,-0.00225167,0.3202898,173.24058,-222.60507)"
-       x1="440.56674"
-       y1="592.36816"
-       x2="384.67825"
-       y2="710.83832" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3336"
-       id="linearGradient3335"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.6306817,0,0,0.6306817,160.25696,-48.418745)"
-       x1="258.10605"
-       y1="-51.025757"
-       x2="142.74826"
-       y2="22.63376" />
+       id="perspective3912" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -199,24 +56,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90389509"
-     inkscape:cx="275.353"
-     inkscape:cy="176.64461"
+     inkscape:zoom="1.1481568"
+     inkscape:cx="347.55709"
+     inkscape:cy="74.13491"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1159"
-     inkscape:window-height="772"
-     inkscape:window-x="606"
-     inkscape:window-y="168"
-     units="mm"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1757"
+     inkscape:window-height="1052"
+     inkscape:window-x="102"
+     inkscape:window-y="30"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:window-maximized="0" />
   <metadata
-     id="metadata3222">
+     id="metadata3909">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -231,93 +87,60 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(40.528343,11.524815)">
+     transform="translate(-109.11302,-209.5442)">
     <g
-       id="g4373">
+       id="g3863"
+       transform="matrix(5.8602409,0,0,5.8602409,83.238626,-101.2188)">
       <path
          inkscape:connector-curvature="0"
-         id="rect4229"
-         d="m -39.580436,-10.57643 0,259.19531 539.390626,0 0,-259.19531 -539.390626,0 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#622a03;stroke-width:1.89581347;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccscc"
-         id="rect2484"
-         d="m -40.528338,-11.52481 0,261.09207 516.577318,-1.02791 C 379.47132,227.83951 251.22672,175.69277 251.22672,113.38232 c 0,-53.04725 73.90314,-99.49821 148.31688,-124.90713 l -440.071938,0 z"
-         style="opacity:1;fill:#622a03;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         id="path3865"
+         d="m 17.12946,55.704246 c -3.921586,0.180243 -7.113689,3.483113 -7.141274,7.408737 l -0.106987,14.17557 c -0.027593,3.925628 3.433658,8.31113 7.355248,8.130891 L 27.747765,83.5472 c 2.536864,-0.116602 4.754575,-1.529909 6.017929,-3.584014 -0.458328,0.363521 -1.024579,0.617873 -1.68502,0.829138 l -12.383563,1.390812 c -2.268277,0 -4.09219,-3.279383 -4.09219,-7.355248 l 0,-9.494955 c 8e-6,-4.075865 1.823901,-7.355248 4.09219,-7.355248 l 11.768395,1.069852 c 1.330221,0.346586 2.447748,1.308006 3.182815,2.808369 l 0.320956,-0.213969 c -0.02617,-0.807172 -3.112701,-4.188364 -7.034291,-4.760852 L 17.12946,55.704246 Z"
+         style="fill:url(#linearGradient3886);fill-opacity:1;stroke:none;stroke-width:0.31629816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
-         transform="translate(0,2)"
          xml:space="preserve"
-         id="flowRoot2505"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.46181297px;line-height:125%;font-family:AppleGothic;-inkscape-font-specification:AppleGothic;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-           id="flowRegion2507"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.46181297px;line-height:125%;font-family:AppleGothic;-inkscape-font-specification:AppleGothic;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-             id="rect2509"
-             width="1002.3125"
-             height="188.76443"
-             x="-7.5968337"
-             y="98.749954" /></flowRegion><flowPara
-           id="flowPara2513">www.b-info.com</flowPara><flowPara
-           id="flowPara2515">b-info@gmail.com</flowPara><flowPara
-           id="flowPara2517">06.61.58.36.93</flowPara><flowPara
-           id="flowPara2519">04.90.87.76.62</flowPara><flowPara
-           id="flowPara2521">24 boulevard Jean Rey</flowPara><flowPara
-           id="flowPara2523">30133 Les Angles</flowPara></flowRoot>      <g
-         transform="matrix(1.3618494,0,0,1.3618494,-39.574336,11.187563)"
-         id="g4231">
-        <flowRoot
-           transform="matrix(2.9143857,0,0,2.9143857,-777.29273,-702.60973)"
-           style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Bitstream Vera Sans';fill:#28170b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           id="flowRoot3356"
-           xml:space="preserve"><flowRegion
-             id="flowRegion3358"><rect
-               y="269.27176"
-               x="358.53961"
-               height="242.25648"
-               width="641.49518"
-               id="rect3360"
-               style="fill:#28170b" /></flowRegion><flowPara
-             id="flowPara3362">b-info</flowPara></flowRoot>        <g
-           id="g3325"
-           transform="matrix(0.2907343,0,0,0.2907343,232.81946,86.16157)">
-          <path
-             style="fill:url(#linearGradient3333);fill-opacity:1;stroke:none;stroke-width:0.31629816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
-             d="m 249.0855,-136.1867 43.51859,4.72242 c 15.75981,2.30068 28.14194,17.20272 28.24711,20.44653 l -0.40039,56.953257 c -0.11091,15.776054 -12.88769,29.059773 -28.6475,29.784122 l -42.29629,7.500515 c -15.75981,0.724349 -29.58032,-16.893412 -29.46941,-32.669466 l 0.40039,-56.953258 c 0.1109,-15.77605 12.88769,-29.05977 28.6475,-29.78412 z"
-             id="path2527"
-             sodipodi:nodetypes="ccccccccc"
-             inkscape:connector-curvature="0" />
-          <path
-             style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient3335);stroke-width:2.37149358;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-             d="m 259.43622,-127.11059 47.32256,4.35011 c 9.45851,2.46437 16.45423,12.5763 16.45423,28.956127 l -0.23495,32.889872 c 0,16.379822 -4.08134,22.490004 -13.71129,25.570483 l -49.83055,5.576537 c -9.11564,0 -16.45423,-13.186644 -16.45423,-29.566467 l 0,-38.210193 c 0,-16.379819 7.33859,-29.566469 16.45423,-29.566469 z"
-             id="path2529"
-             sodipodi:nodetypes="ccccccccc"
-             inkscape:connector-curvature="0" />
-          <flowRoot
-             xml:space="preserve"
-             id="flowRoot2531"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:100%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#28170b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             transform="matrix(0.5212021,0,0,0.7951965,193.62331,-21.263298)"><flowRegion
-               id="flowRegion2533"><rect
-                 id="rect2535"
-                 width="87.212334"
-                 height="100.7787"
-                 x="153.10609"
-                 y="-100.89615"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72px;line-height:100%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#28170b" /></flowRegion><flowPara
-               id="flowPara2537">b</flowPara></flowRoot>        </g>
-      </g>
-      <flowRoot
-         transform="translate(0,2)"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.63471031px;line-height:100%;font-family:AppleGothic;-inkscape-font-specification:'AppleGothic Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot3337"
-         xml:space="preserve"><flowRegion
-           id="flowRegion3339"><rect
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.63471031px;line-height:100%;font-family:AppleGothic;-inkscape-font-specification:'AppleGothic Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff"
-             y="18.443857"
-             x="-10.931639"
-             height="38.005043"
-             width="272.22217"
-             id="rect3341" /></flowRegion><flowPara
-           id="flowPara3343">Bruno Boissonnet</flowPara></flowRoot>    </g>
+         id="flowRoot3867"
+         style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Bitstream Vera Sans';fill:#28170b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(1.4773359,0,0,1.4773359,-509.05106,-339.42402)"><flowRegion
+           id="flowRegion3869"><rect
+             style="fill:#28170b"
+             id="rect3871"
+             width="641.49518"
+             height="242.25648"
+             x="358.53961"
+             y="269.27176" /></flowRegion><flowPara
+           id="flowPara3873">b-info</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3357"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(97.819761,228.73292)"><flowRegion
+         id="flowRegion3359"><rect
+           id="rect3361"
+           width="529.54437"
+           height="42.677097"
+           x="-12.193457"
+           y="261.85272" /></flowRegion><flowPara
+         id="flowPara3363">Pour créer le dernier cadre, j'ai simplement fait la différence entre le cadre du contour et le cadre de l'intérieur. Ça a ouvert la touche, pour donnner quelque chose de plus abstrait.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="109.14226"
+       y="457.48911"
+       id="text3365"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3367"
+         x="109.14226"
+         y="457.48911"
+         style="font-size:12.5px">Pour créer le dernier cadre, j'ai simplement fait la différence</tspan><tspan
+         sodipodi:role="line"
+         x="109.14226"
+         y="473.11411"
+         style="font-size:12.5px"
+         id="tspan3378">entre le cadre du contour et le cadre de l'intérieur.</tspan><tspan
+         sodipodi:role="line"
+         x="109.14226"
+         y="488.73907"
+         style="font-size:12.5px"
+         id="tspan3369">Ça a ouvert la touche, pour donnner quelque chose de plus abstrait.</tspan></text>
   </g>
 </svg>

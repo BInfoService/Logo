@@ -9,60 +9,51 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="90.073349mm"
-   height="63.535851mm"
-   id="svg2669"
+   width="84.01815mm"
+   height="173.44507mm"
+   id="svg4993"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo_v2.0.svg"
+   sodipodi:docname="logo_v2.2.0.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/Users/brunoboissonnet/Documents/binfoservice/logo/logo_v2.2.png"
+   inkscape:export-xdpi="80.800003"
+   inkscape:export-ydpi="80.800003"
    version="1.1">
   <defs
-     id="defs2671">
-    <filter
-       inkscape:collect="always"
-       id="filter5524"
-       x="-0.037301935"
-       width="1.0746039"
-       y="-0.14092787"
-       height="1.2818557">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="3.8059064"
-         id="feGaussianBlur5526" />
-    </filter>
+     id="defs4995">
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 526.18109 : 1"
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_z="744.09448 : 526.18109 : 1"
        inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective2677" />
+       id="perspective5001" />
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.83146278"
-     inkscape:cx="279.74374"
-     inkscape:cy="301.85533"
+     inkscape:zoom="0.6719234"
+     inkscape:cx="-66.615545"
+     inkscape:cy="96.677767"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="1076"
-     inkscape:window-x="240"
-     inkscape:window-y="12"
-     fit-margin-top="5"
-     fit-margin-right="5"
-     fit-margin-bottom="5"
-     fit-margin-left="5"
+     inkscape:window-width="1273"
+     inkscape:window-height="1070"
+     inkscape:window-x="526"
+     inkscape:window-y="92"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
      inkscape:window-maximized="0" />
   <metadata
-     id="metadata2674">
+     id="metadata4998">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -77,148 +68,229 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-92.303505,-651.01738)">
-    <text
-       inkscape:export-ydpi="203.55"
-       inkscape:export-xdpi="203.55"
-       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-       sodipodi:linespacing="125%"
-       id="text2563"
-       y="642.63489"
-       x="369.28827"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.37622261px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="642.63489"
-         x="369.28827"
-         id="tspan2565"
-         sodipodi:role="line" /></text>
+     transform="translate(-50.848527,-55.470899)">
     <g
-       id="g3491">
-      <g
-         transform="matrix(2.7729613,0,0,2.7729613,-980.0123,-477.13214)"
-         id="g2603">
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path2551"
-           d="m 446.5572,430.31382 c 0,0 -1.13654,-1.49754 -3.15871,-1.90196 -1.16419,-0.23286 -13.19559,-1.61037 -15.11638,-0.9518 -2.8458,0.9757 -3.80283,4.52335 -3.84161,6.0368 l 0,16.40917 c 0.49392,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73106 14.48836,-1.81102 1.70127,-0.43905 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.1649,2.69593 -2.63423,3.8965 -1.26227,0.93296 -1.53666,0.7683 -2.08545,0.93296 -1.37579,0.41272 -12.72434,2.60423 -13.99445,2.68912 -4.55505,0.27439 -9.8235,-3.15432 -9.94271,-7.55853 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71968 9.22213,-7.49033 1.74628,0.11642 13.2498,1.78165 14.80205,2.05329 3.69896,0.64732 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           style="fill:#2b1100;fill-opacity:0.15352699;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path2553"
-           d="m 465.48248,441.96016 c 0,0 -1.13653,-1.49754 -3.1587,-1.90196 -1.16419,-0.23285 -13.19559,-1.61037 -15.11639,-0.9518 -2.84579,0.97571 -3.80282,4.52336 -3.84161,6.0368 l 0,16.40918 c 0.49392,4.50016 3.39093,6.24555 4.55506,6.25631 -0.0549,0 14.1785,-1.73106 14.48835,-1.81101 1.70127,-0.43906 2.68913,-2.08546 2.68913,-2.08546 0,0 -1.1649,2.69593 -2.63424,3.8965 -1.26226,0.93296 -1.53665,0.7683 -2.08545,0.93296 -1.37578,0.41272 -12.72434,2.60424 -13.99445,2.68913 -4.55505,0.27438 -9.8235,-3.15433 -9.94271,-7.55854 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.7821,-7.71967 9.22213,-7.49032 1.74627,0.11641 13.2498,1.78165 14.80204,2.05328 3.69897,0.64733 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           style="fill:#2b1100;fill-opacity:0.15352699;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path2555"
-           d="m 435.63877,452.15071 c 0,0 -1.13654,-1.49755 -3.15871,-1.90197 -1.16419,-0.23285 -13.19559,-1.61037 -15.11638,-0.95179 -2.8458,0.97569 -3.80283,4.52335 -3.84161,6.03679 l 0,16.40918 c 0.49391,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73107 14.48836,-1.81103 1.70127,-0.43904 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.16491,2.69593 -2.63423,3.8965 -1.26227,0.93297 -1.53666,0.76831 -2.08546,0.93297 -1.37578,0.41271 -12.72433,2.60422 -13.99445,2.68911 -4.55505,0.2744 -9.82349,-3.15432 -9.9427,-7.55852 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71969 9.22213,-7.49034 1.74628,0.11642 13.2498,1.78166 14.80205,2.0533 3.69896,0.64732 4.85607,3.32495 4.85607,3.32495 l 0.21954,0.60369 z"
-           style="fill:#2b1100;fill-opacity:0.15352699;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-           inkscape:connector-curvature="0" />
-      </g>
+       id="g2502"
+       transform="matrix(2.527624,0,0,2.527624,-931.94864,-980.70678)"
+       style="fill:#666666">
       <path
-         style="fill:#2b1100;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         d="m 224.68632,692.35841 c 0,0 -4.47844,-5.901 -12.44671,-7.49465 -4.58743,-0.91749 -51.99655,-6.34554 -59.5654,-3.75049 -11.21372,3.84471 -14.98475,17.82413 -15.13766,23.78777 l 3e-5,64.65947 c 1.94626,17.73272 13.36174,24.61039 17.94894,24.65281 -0.21627,0 55.86968,-6.82126 57.09067,-7.13632 6.70383,-1.73005 10.59634,-8.21759 10.59634,-8.21759 0,0 -4.59022,10.62313 -10.38008,15.35394 -4.9738,3.67628 -6.05509,3.02749 -8.21762,3.67628 -5.42116,1.62634 -50.1396,10.26185 -55.14438,10.59638 -17.94896,1.08126 -38.70907,-12.42947 -39.17884,-29.78402 -0.21623,-8.86635 -0.23157,-80.39982 -0.23157,-80.39982 0,-19.72585 22.78418,-30.41897 36.33938,-29.51529 6.88111,0.45873 52.21018,7.02053 58.32672,8.09092 14.5756,2.55073 19.13515,13.10182 19.13515,13.10182 l 0.86503,2.37879 z"
-         id="path2561"
+         style="fill:#666666;fill-opacity:0.15352699;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 446.5572,430.31382 c 0,0 -1.13654,-1.49754 -3.15871,-1.90196 -1.16419,-0.23286 -13.19559,-1.61037 -15.11638,-0.9518 -2.8458,0.9757 -3.80283,4.52335 -3.84161,6.0368 l 0,16.40917 c 0.49392,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73106 14.48836,-1.81102 1.70127,-0.43905 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.1649,2.69593 -2.63423,3.8965 -1.26227,0.93296 -1.53666,0.7683 -2.08545,0.93296 -1.37579,0.41272 -12.72434,2.60423 -13.99445,2.68912 -4.55505,0.27439 -9.8235,-3.15432 -9.94271,-7.55853 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71968 9.22213,-7.49033 1.74628,0.11642 13.2498,1.78165 14.80205,2.05329 3.69896,0.64732 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
+         id="path2504"
          sodipodi:nodetypes="ccccccccccccccccc"
          inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
          inkscape:export-xdpi="203.55"
          inkscape:export-ydpi="203.55"
          inkscape:connector-curvature="0" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="206.89836"
-         y="805.21448"
-         id="text2557"
-         sodipodi:linespacing="125%"
-         transform="scale(1.1020865,0.9073698)"
+      <path
+         style="fill:#666666;fill-opacity:0.15352699;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 465.48248,441.96016 c 0,0 -1.13653,-1.49754 -3.1587,-1.90196 -1.16419,-0.23285 -13.19559,-1.61037 -15.11639,-0.9518 -2.84579,0.97571 -3.80282,4.52336 -3.84161,6.0368 l 0,16.40918 c 0.49392,4.50016 3.39093,6.24555 4.55506,6.25631 -0.0549,0 14.1785,-1.73106 14.48835,-1.81101 1.70127,-0.43906 2.68913,-2.08546 2.68913,-2.08546 0,0 -1.1649,2.69593 -2.63424,3.8965 -1.26226,0.93296 -1.53665,0.7683 -2.08545,0.93296 -1.37578,0.41272 -12.72434,2.60424 -13.99445,2.68913 -4.55505,0.27438 -9.8235,-3.15433 -9.94271,-7.55854 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.7821,-7.71967 9.22213,-7.49032 1.74627,0.11641 13.2498,1.78165 14.80204,2.05328 3.69897,0.64733 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
+         id="path2506"
+         sodipodi:nodetypes="ccccccccccccccccc"
          inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
          inkscape:export-xdpi="203.55"
-         inkscape:export-ydpi="203.55"><tspan
-           sodipodi:role="line"
-           id="tspan2559"
-           x="206.89836"
-           y="805.21448"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.28461456px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#2b1100;fill-opacity:1">info</tspan></text>
-      <path
-         id="text2567"
-         d="m 165.17391,763.61774 0,-57.35521 8.62582,0 0,25.1267 c 3.53204,-5.47953 8.83013,-8.21931 15.89428,-8.21935 5.72132,4e-5 10.21666,1.71841 13.48605,5.15512 3.29849,3.43678 4.94776,8.13527 4.9478,14.09547 -4e-5,6.48897 -1.86824,11.72821 -5.60459,15.7177 -3.70725,3.96549 -8.59666,5.94822 -14.66827,5.94822 -5.63381,0 -10.3189,-1.77845 -14.05527,-5.33537 l -1.05086,4.86672 -7.57496,0 m 8.62582,-9.76948 c 4.43695,3.26852 8.66959,4.90277 12.69791,4.90276 3.96988,10e-6 7.03489,-1.35787 9.19504,-4.07362 2.16005,-2.73977 3.24011,-6.58508 3.24015,-11.53593 -4e-5,-9.18065 -3.67805,-13.77099 -11.03404,-13.77103 -4.81648,4e-5 -9.51615,2.151 -14.09906,6.45292 l 0,18.0249"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#2b1100;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:export-ydpi="203.55"
          inkscape:connector-curvature="0" />
-      <g
-         transform="matrix(0.4482151,-0.01651629,0,0.4482151,203.58747,450.42438)"
-         id="g3088">
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:102.71718597px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.16000001;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="38.986164"
-           y="715.91772"
-           id="text5404"
-           sodipodi:linespacing="125%"
-           transform="scale(0.9888,1.0113268)"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55"><tspan
-             y="715.91772"
-             x="38.986164"
-             id="tspan5406"
-             sodipodi:role="line">service</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:102.71718597px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.26900006;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="47.076763"
-           y="715.91772"
-           id="text5412"
-           sodipodi:linespacing="125%"
-           transform="scale(0.9888,1.0113268)"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55"><tspan
-             y="715.91772"
-             x="47.076763"
-             id="tspan5414"
-             sodipodi:role="line">service</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:102.71718597px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.80263157;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter5524)"
-           x="37.940212"
-           y="666.74603"
-           id="text5416"
-           sodipodi:linespacing="125%"
-           transform="matrix(0.9888,0,0,1.0113268,13.87047,49.177687)"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55"><tspan
-             y="666.74603"
-             x="37.940212"
-             id="tspan5418"
-             sodipodi:role="line">service</tspan></text>
-        <text
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           transform="scale(0.9888,1.0113268)"
-           sodipodi:linespacing="125%"
-           id="text5388"
-           y="716.16168"
-           x="52.903248"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:102.71718597px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             sodipodi:role="line"
-             id="tspan5390"
-             x="52.903248"
-             y="716.16168">service</tspan></text>
-      </g>
+      <path
+         style="fill:#666666;fill-opacity:0.15352699;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         d="m 435.63877,452.15071 c 0,0 -1.13654,-1.49755 -3.15871,-1.90197 -1.16419,-0.23285 -13.19559,-1.61037 -15.11638,-0.95179 -2.8458,0.97569 -3.80283,4.52335 -3.84161,6.03679 l 0,16.40918 c 0.49391,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73107 14.48836,-1.81103 1.70127,-0.43904 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.16491,2.69593 -2.63423,3.8965 -1.26227,0.93297 -1.53666,0.76831 -2.08546,0.93297 -1.37578,0.41271 -12.72433,2.60422 -13.99445,2.68911 -4.55505,0.2744 -9.82349,-3.15432 -9.9427,-7.55852 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71969 9.22213,-7.49034 1.74628,0.11642 13.2498,1.78166 14.80205,2.0533 3.69896,0.64732 4.85607,3.32495 4.85607,3.32495 l 0.21954,0.60369 z"
+         id="path2508"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+         inkscape:export-xdpi="203.55"
+         inkscape:export-ydpi="203.55"
+         inkscape:connector-curvature="0" />
     </g>
+    <text
+       inkscape:export-ydpi="203.55"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       transform="scale(1.1020865,0.9073698)"
+       sodipodi:linespacing="125%"
+       id="text2510"
+       y="137.9091"
+       x="162.83351"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16808319px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#000000;fill-opacity:1"
+         y="137.9091"
+         x="162.83351"
+         id="tspan2512"
+         sodipodi:role="line">info</tspan></text>
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 111.91738,150.26793 0,-52.280707 7.86265,0 0,22.903617 c 3.21953,-4.99474 8.04889,-7.4921 14.48801,-7.49215 5.2151,5e-5 9.31274,1.56639 12.29292,4.69901 3.00659,3.13273 4.50998,7.41553 4.50998,12.8484 0,5.91484 -1.70294,10.69055 -5.10872,14.32707 -3.37922,3.61465 -7.83604,5.42195 -13.37046,5.42195 -5.13538,0 -9.40595,-1.62109 -12.81173,-4.86331 l -0.95792,4.43612 -6.90473,0 m 7.86265,-8.90512 c 4.04437,2.97933 7.90251,4.469 11.57445,4.469 3.61863,0 6.41247,-1.23773 8.38151,-3.71321 1.96891,-2.49737 2.95343,-6.00248 2.95348,-10.51529 -5e-5,-8.3684 -3.35262,-12.55261 -10.0578,-12.55266 -4.39036,5e-5 -8.67424,1.96072 -12.85164,5.88202 l 0,16.43014"
+       id="path2514"
+       inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-ydpi="203.55"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       transform="matrix(0.98880003,-0.03643632,0,1.0113268,0,0)"
+       sodipodi:linespacing="125%"
+       id="text2516"
+       y="164.62053"
+       x="180.58035"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.96607208px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan2518"
+         x="180.58035"
+         y="164.62053">service</tspan></text>
+    <path
+       id="path2520"
+       d="M 92.107887,64.400592 C 75.416464,65.167766 61.865051,79.173693 61.747654,95.882338 l -0.480659,60.319972 c -0.117494,16.70871 14.549969,35.37306 31.241441,34.6059 l 44.779354,-7.93052 c 9.60977,-0.44167 18.14821,-5.34798 23.71147,-12.57665 2.92823,-1.63603 5.28671,-3.81322 6.96925,-6.80904 2.52375,-4.49372 3.60475,-10.60736 3.60475,-19.38571 l 0.24033,-36.12791 c 0,-14.079934 -4.92311,-23.354185 -12.25626,-27.957078 -5.38804,-4.752464 -12.9068,-9.415977 -21.38833,-10.654125 L 92.107887,64.400592 Z m 10.814333,10.814339 0.0801,0 49.98629,4.646162 0.0801,0 c 9.32405,2.548606 16.26155,11.274417 16.26155,28.117287 L 169.09,144.10629 c 0,8.56975 -1.09702,14.28947 -3.28435,18.18412 -2.14758,3.82385 -5.4026,6.04207 -10.1735,7.61008 l -0.0801,0 -52.54971,5.92788 c -0.0247,0 -0.0554,2e-4 -0.0801,0 -4.194306,-0.0359 -8.135075,-3.10117 -11.134723,-8.49129 -3.01737,-5.42188 -4.8865,-13.06205 -4.8865,-21.54856 l 0,-40.53376 c 0,-8.486486 1.86913,-16.126698 4.8865,-21.54857 2.999648,-5.390138 6.940368,-8.455399 11.134723,-8.491259 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31629816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="477.63547"
+       x="51.986801"
+       height="191.68417"
+       width="294.77319"
+       id="rect3524"
+       style="fill:#28170b;fill-opacity:1;stroke:#28170b;stroke-width:1.44082463;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.15294118;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m 196.78009,532.315 c 0,0 -2.87275,-3.78521 -7.98403,-4.80746 -2.94263,-0.58859 -33.35349,-4.0704 -38.20853,-2.40577 -7.19311,2.46622 -9.61212,11.43331 -9.71014,15.25877 l 0,41.47621 c 1.24844,11.37471 8.57097,15.78643 11.51345,15.81362 -0.13874,0 35.83795,-4.3755 36.62113,-4.57757 4.30017,-1.10979 6.79708,-5.27127 6.79708,-5.27127 0,0 -2.94442,6.81433 -6.65834,9.84889 -3.19054,2.35818 -3.8841,1.942 -5.27123,2.35818 -3.47748,1.04323 -32.16235,6.5825 -35.37271,6.7971 -11.51345,0.69355 -24.83011,-7.97296 -25.13143,-19.10511 -0.13874,-5.68735 -0.14858,-51.57295 -0.14858,-51.57295 0,-12.65321 14.615,-19.5124 23.31008,-18.9327 4.41394,0.29427 33.49051,4.50333 37.41402,5.18994 9.34958,1.63619 12.27434,8.4042 12.27434,8.4042 l 0.55489,1.52592 z"
+       id="path3526"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.15294118;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m 244.61608,561.75256 c 0,0 -2.87272,-3.78521 -7.98401,-4.80746 -2.94263,-0.58854 -33.35348,-4.0704 -38.20854,-2.40577 -7.19309,2.46622 -9.6121,11.43336 -9.71015,15.25877 l 0,41.47622 c 1.24845,11.37471 8.571,15.78642 11.51348,15.81361 -0.13874,0 35.83792,-4.3755 36.6211,-4.57757 4.30017,-1.10978 6.79711,-5.27127 6.79711,-5.27127 0,0 -2.94443,6.81433 -6.65837,9.84889 -3.19052,2.35819 -3.88407,1.94201 -5.27123,2.35819 -3.47745,1.04322 -32.16235,6.58254 -35.37271,6.79709 -11.51345,0.69356 -24.83011,-7.97296 -25.13143,-19.1051 -0.13874,-5.68736 -0.14855,-51.57291 -0.14855,-51.57291 0,-12.65326 14.61498,-19.51245 23.31008,-18.93275 4.41391,0.29427 33.49051,4.50338 37.41399,5.18995 9.3496,1.63618 12.27434,8.40419 12.27434,8.40419 l 0.55489,1.52592 z"
+       id="path3528"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:0.15294118;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m 169.1824,587.51042 c 0,0 -2.87274,-3.78521 -7.98402,-4.80746 -2.94264,-0.58854 -33.35349,-4.0704 -38.20853,-2.40577 -7.19311,2.46621 -9.61212,11.43336 -9.71015,15.25877 l 0,41.47621 c 1.24842,11.37471 8.57097,15.78643 11.51346,15.81362 -0.13874,0 35.83794,-4.3755 36.62112,-4.57757 4.30017,-1.10974 6.79709,-5.27127 6.79709,-5.27127 0,0 -2.94445,6.81433 -6.65835,9.84889 -3.19054,2.35823 -3.8841,1.942 -5.27125,2.35823 -3.47746,1.04318 -32.16233,6.58245 -35.37271,6.79705 -11.51345,0.69355 -24.83009,-7.97296 -25.131409,-19.10511 -0.138741,-5.6873 -0.148572,-51.5729 -0.148572,-51.5729 0,-12.65322 14.615001,-19.51246 23.310071,-18.93275 4.41394,0.29427 33.49052,4.50333 37.41402,5.18994 9.34958,1.63618 12.27432,8.40424 12.27432,8.40424 l 0.55491,1.52588 z"
+       id="path3530"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16808319px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#aca7a3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="162.83354"
+       y="613.29443"
+       id="text3532"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1020865,0.9073698)"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55"><tspan
+         sodipodi:role="line"
+         id="tspan3534"
+         x="162.83354"
+         y="613.29443"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#aca7a3;fill-opacity:1">info</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path3536"
+       d="m 111.91739,575.61815 0,-52.28069 7.86265,0 0,22.90362 c 3.21954,-4.99472 8.04889,-7.49211 14.48802,-7.49215 5.21509,4e-5 9.31273,1.56636 12.29291,4.69899 3.00659,3.13278 4.50998,7.41554 4.50998,12.84844 0,5.91482 -1.70293,10.69052 -5.10872,14.32707 -3.37922,3.61465 -7.83604,5.42192 -13.37046,5.42192 -5.13537,0 -9.40595,-1.62108 -12.81173,-4.86329 l -0.95792,4.43609 -6.90473,0 m 7.86265,-8.9051 c 4.04438,2.97936 7.90251,4.46901 11.57445,4.46901 3.61863,0 6.41247,-1.23772 8.38152,-3.71321 1.9689,-2.49738 2.95343,-6.0025 2.95347,-10.5153 -4e-5,-8.36841 -3.35261,-12.55261 -10.0578,-12.55266 -4.39035,5e-5 -8.67423,1.9607 -12.85164,5.88204 l 0,16.43012"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#aca7a3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.96607208px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="180.58034"
+       y="585.20679"
+       id="text3538"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98880003,-0.03643632,0,1.0113268,0,0)"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55"><tspan
+         y="585.20679"
+         x="180.58034"
+         id="tspan3540"
+         sodipodi:role="line">service</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#aca7a3;fill-opacity:1;stroke:none;stroke-width:0.31629816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 92.107901,489.75085 c -16.691423,0.76716 -30.242836,14.77311 -30.360233,31.48172 l -0.480659,60.31996 c -0.117494,16.70871 14.549969,35.37312 31.241441,34.60596 l 44.77936,-7.93053 c 9.60977,-0.44167 18.1482,-5.34798 23.71146,-12.57669 2.92823,-1.63604 5.28671,-3.81323 6.96926,-6.80904 2.52375,-4.49372 3.60474,-10.60736 3.60474,-19.38569 l 0.24033,-36.12794 c 0,-14.07989 -4.92311,-23.35417 -12.25626,-27.95708 -5.38803,-4.75245 -12.90679,-9.41596 -21.38833,-10.65411 l -46.061109,-4.96656 z m 10.814329,10.81433 0.0801,0 49.9863,4.64617 0.0801,0 c 9.32404,2.5486 16.26155,11.2744 16.26155,28.11725 L 169.09,569.45654 c 0,8.56976 -1.09702,14.28945 -3.28436,18.18409 -2.14757,3.82386 -5.4026,6.04207 -10.1735,7.61009 l -0.0801,0 -52.54971,5.92792 c -0.0247,0 -0.0554,2e-4 -0.0801,0 -4.194302,-0.0359 -8.135071,-3.10121 -11.134719,-8.49134 -3.01737,-5.42187 -4.8865,-13.06201 -4.8865,-21.54855 l 0,-40.53373 c 0,-8.48649 1.86913,-16.12672 4.8865,-21.5486 2.999648,-5.39012 6.940368,-8.45537 11.134719,-8.49124 z"
+       id="path3542" />
+    <rect
+       y="264.35965"
+       x="53.057205"
+       height="191.68417"
+       width="294.77301"
+       id="rect6690"
+       style="fill:#ba7301;fill-opacity:1;stroke:#ba7301;stroke-width:1.44082403;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.15294118;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m 196.78008,318.10956 c 0,0 -2.87274,-3.78521 -7.98402,-4.80746 -2.94264,-0.58859 -33.35349,-4.0704 -38.20853,-2.40577 -7.19311,2.46622 -9.61212,11.43331 -9.71015,15.25877 l 0,41.47621 c 1.24845,11.37471 8.57097,15.78643 11.51346,15.81362 -0.13874,0 35.83794,-4.3755 36.62112,-4.57757 4.30017,-1.10979 6.79709,-5.27127 6.79709,-5.27127 0,0 -2.94443,6.81433 -6.65834,9.84889 -3.19055,2.35818 -3.8841,1.942 -5.27124,2.35818 -3.47748,1.04323 -32.16234,6.5825 -35.37271,6.7971 -11.51345,0.69355 -24.83011,-7.97296 -25.13143,-19.10511 -0.13874,-5.68735 -0.14857,-51.57295 -0.14857,-51.57295 0,-12.65321 14.615,-19.5124 23.31008,-18.9327 4.41394,0.29427 33.49051,4.50333 37.41401,5.18994 9.34958,1.63619 12.27435,8.4042 12.27435,8.4042 l 0.55488,1.52592 z"
+       id="path6692"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.15294118;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m 244.61608,347.54712 c 0,0 -2.87272,-3.78521 -7.98401,-4.80746 -2.94263,-0.58854 -33.35349,-4.0704 -38.20855,-2.40577 -7.19308,2.46622 -9.6121,11.43336 -9.71014,15.25877 l 0,41.47622 c 1.24844,11.37471 8.57099,15.78642 11.51348,15.81361 -0.13875,0 35.83791,-4.3755 36.6211,-4.57757 4.30017,-1.10978 6.79711,-5.27127 6.79711,-5.27127 0,0 -2.94443,6.81433 -6.65837,9.84889 -3.19052,2.35819 -3.88407,1.94201 -5.27124,2.35819 -3.47745,1.04322 -32.16234,6.58254 -35.3727,6.79709 -11.51346,0.69356 -24.83012,-7.97296 -25.13143,-19.1051 -0.13875,-5.68736 -0.14855,-51.57291 -0.14855,-51.57291 0,-12.65326 14.61497,-19.51245 23.31008,-18.93275 4.41391,0.29427 33.4905,4.50338 37.41398,5.18995 9.34961,1.63618 12.27435,8.40419 12.27435,8.40419 l 0.55489,1.52592 z"
+       id="path6694"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-opacity:0.15294118;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+       d="m 169.1824,373.30498 c 0,0 -2.87274,-3.78521 -7.98403,-4.80746 -2.94263,-0.58854 -33.35349,-4.0704 -38.20853,-2.40577 -7.19311,2.46621 -9.61212,11.43336 -9.71014,15.25877 l 0,41.47621 c 1.24842,11.37471 8.57097,15.78643 11.51345,15.81362 -0.13874,0 35.83795,-4.3755 36.62113,-4.57757 4.30017,-1.10974 6.79708,-5.27127 6.79708,-5.27127 0,0 -2.94445,6.81433 -6.65834,9.84889 -3.19054,2.35823 -3.8841,1.942 -5.27126,2.35823 -3.47745,1.04318 -32.16232,6.58245 -35.37271,6.79705 -11.51345,0.69355 -24.83008,-7.97296 -25.1314,-19.10511 -0.13874,-5.6873 -0.14857,-51.5729 -0.14857,-51.5729 0,-12.65322 14.615,-19.51246 23.31007,-18.93275 4.41394,0.29427 33.49052,4.50333 37.41402,5.18994 9.34958,1.63618 12.27432,8.40424 12.27432,8.40424 l 0.55491,1.52588 z"
+       id="path6696"
+       sodipodi:nodetypes="ccccccccccccccccc"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16809082px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#28170b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="162.83354"
+       y="377.22153"
+       id="text6698"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1020865,0.9073698)"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55"><tspan
+         sodipodi:role="line"
+         id="tspan6700"
+         x="162.83354"
+         y="377.22153"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#28170b;fill-opacity:1">info</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path6702"
+       d="m 111.91739,361.41271 0,-52.28069 7.86265,0 0,22.90362 c 3.21953,-4.99472 8.04889,-7.49211 14.48801,-7.49215 5.2151,4e-5 9.31274,1.56636 12.29292,4.69899 3.00659,3.13278 4.50998,7.41554 4.50998,12.84844 0,5.91482 -1.70294,10.69052 -5.10872,14.32707 -3.37922,3.61465 -7.83604,5.42192 -13.37046,5.42192 -5.13538,0 -9.40595,-1.62108 -12.81173,-4.86329 l -0.95792,4.43609 -6.90473,0 m 7.86265,-8.9051 c 4.04437,2.97936 7.90251,4.46901 11.57445,4.46901 3.61863,0 6.41247,-1.23772 8.38151,-3.71321 1.96891,-2.49738 2.95343,-6.0025 2.95348,-10.5153 -5e-5,-8.36841 -3.35262,-12.55261 -10.0578,-12.55266 -4.39036,5e-5 -8.67424,1.9607 -12.85164,5.88204 l 0,16.43012"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#28170b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.96607208px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="180.58032"
+       y="373.40045"
+       id="text6704"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98879997,-0.03643633,0,1.0113269,0,0)"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55"><tspan
+         y="373.40045"
+         x="180.58032"
+         id="tspan6706"
+         sodipodi:role="line">service</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#28170b;fill-opacity:1;stroke:none;stroke-width:0.31629816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 92.1079,275.54541 c -16.69143,0.76716 -30.24284,14.77311 -30.36024,31.48172 l -0.48065,60.31996 c -0.1175,16.70871 14.54996,35.37312 31.24144,34.60596 l 44.77935,-7.93053 c 9.60977,-0.44167 18.14821,-5.34798 23.71147,-12.57669 2.92823,-1.63604 5.28671,-3.81323 6.96925,-6.80904 2.52375,-4.49372 3.60475,-10.60736 3.60475,-19.38569 l 0.24033,-36.12794 c 0,-14.07989 -4.92311,-23.35417 -12.25626,-27.95708 -5.38804,-4.75245 -12.9068,-9.41596 -21.38833,-10.65411 L 92.1079,275.54541 Z m 10.81433,10.81433 0.0801,0 49.98629,4.64617 0.0801,0 c 9.32405,2.5486 16.26155,11.2744 16.26155,28.11725 l -0.24028,36.12794 c 0,8.56976 -1.09702,14.28945 -3.28435,18.18409 -2.14757,3.82386 -5.4026,6.04207 -10.1735,7.61009 l -0.0801,0 -52.54971,5.92792 c -0.0247,0 -0.0554,2e-4 -0.0801,0 -4.19431,-0.0359 -8.13507,-3.10121 -11.13472,-8.49134 -3.01737,-5.42187 -4.8865,-13.06201 -4.8865,-21.54855 l 0,-40.53373 c 0,-8.48649 1.86913,-16.12672 4.8865,-21.5486 2.99965,-5.39012 6.94037,-8.45537 11.13472,-8.49124 z"
+       id="path6708" />
   </g>
 </svg>

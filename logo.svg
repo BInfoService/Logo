@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="107.26118mm"
-   height="29.676601mm"
+   width="107.08581mm"
+   height="38.502209mm"
    id="svg4993"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
@@ -38,8 +38,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4777965"
-     inkscape:cx="193.07473"
-     inkscape:cy="21.582924"
+     inkscape:cx="206.23496"
+     inkscape:cy="116.38953"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -70,62 +70,86 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-101.29668,-664.66205)">
+     transform="translate(-88.136448,-863.19511)">
     <rect
+       y="863.87994"
+       x="88.821281"
+       height="135.05548"
+       width="378.06824"
+       id="rect3449"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.36966765;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       inkscape:export-ydpi="89"
+       inkscape:export-xdpi="89"
+       inkscape:export-filename="/Users/brunoboissonnet/Documents/autoentrepreneur/site/css/images/slogan2.png"
+       xml:space="preserve"
+       id="flowRoot6449"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9327755px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#28170b;fill-opacity:1;stroke:none"
+       transform="matrix(1.1691625,0,0,1.1691625,-55.610861,902.76752)"><flowRegion
+         id="flowRegion6451"><rect
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9327755px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#28170b"
+           id="rect6453"
+           width="281.41306"
+           height="35.228901"
+           x="152.56673"
+           y="52.237518" /></flowRegion><flowPara
+         id="flowPara6459">Votre informaticien à domicile</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16809082px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008080;fill-opacity:1;stroke:none"
+       x="169.18513"
+       y="1028.5547"
+       id="text6698"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1020865,0.9073698)"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55"><tspan
+         sodipodi:role="line"
+         id="tspan6700"
+         x="169.18513"
+         y="1028.5547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#008080;fill-opacity:1">info</tspan></text>
+    <path
        style="fill:#008080;fill-opacity:1;stroke:none"
-       id="rect4230"
-       width="380.05933"
-       height="105.15331"
-       x="101.29668"
-       y="664.66205" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 112.875,682.25 0,77.21875 74.46875,-7.9375 0.28125,-9 -65.75,5.96875 0,-65.625 -9,-0.625 z"
-       id="path4255"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#e79e1d;fill-opacity:1;stroke:none"
-       d="m 123.865,673.49718 72.27,5.11 0,61.32 -72.27,6.57 z"
-       id="path4264"
+       d="m 98.88614,884.24832 76.45544,5.40594 -2,63.87129 -74.45544,7.95049 z"
+       id="rect4073"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
-    <g
-       id="g4259"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none"
-       transform="matrix(4.4887066,-0.18763398,0,4.4887066,-393.71697,-1589.2515)">
-      <path
-         style="fill:#f2f2f2"
-         sodipodi:nodetypes="ccccscsccccccccsccccccc"
-         inkscape:connector-curvature="0"
-         id="path4261"
-         d="m 126.55648,518.88686 c 0,-0.82345 -0.29787,-1.46842 -0.89357,-1.93491 -0.58863,-0.47054 -1.40065,-0.70581 -2.43606,-0.70581 -1.03541,0 -1.85097,0.23527 -2.44668,0.70581 -0.58863,0.46649 -0.88294,1.11146 -0.88294,1.93491 0,0.82346 0.29431,1.47046 0.88294,1.941 0.59571,0.46649 1.41127,0.69973 2.44668,0.69973 1.03541,0 1.84743,-0.23324 2.43606,-0.69973 0.5957,-0.47054 0.89357,-1.11754 0.89357,-1.941 m -6.65925,-2.37908 c 0.41132,-0.40564 0.92903,-0.70581 1.55312,-0.90053 0.63116,-0.19875 1.3829,-0.29813 2.25521,-0.29814 1.44672,10e-6 2.62043,0.32857 3.5211,0.98571 0.90775,0.65714 1.36162,1.52115 1.36163,2.59204 -1e-5,1.0709 -0.45388,1.93492 -1.36163,2.59205 -0.90067,0.65714 -2.07438,0.98571 -3.5211,0.98571 -0.87231,0 -1.62405,-0.0974 -2.25521,-0.29206 -0.62409,-0.19877 -1.1418,-0.50097 -1.55312,-0.90661 l 0,0.6752 -1.96799,0.34702 0,-9.46768 1.96799,0 0,3.68729" />
-    </g>
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 107.865,877.49718 72.27,5.11 0,61.32 -72.27,6.57 z"
+       id="path4274"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4076"
+       d="m 109.865,875.49718 72.27,5.11 0,61.32 -72.27,6.57 z"
+       style="fill:#e79e1d;fill-opacity:1;stroke:none" />
     <text
-       inkscape:export-ydpi="203.55"
-       inkscape:export-xdpi="203.55"
-       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-       transform="scale(1.1020865,0.9073698)"
-       sodipodi:linespacing="125%"
-       id="text4266"
-       y="805.93286"
-       x="181.88821"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16809082px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#ffffff;fill-opacity:1"
-         y="805.93286"
-         x="181.88821"
-         id="tspan4268"
-         sodipodi:role="line">info</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4270"
-       y="731.89423"
-       x="305.67114"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="731.89423"
-         x="305.67114"
-         id="tspan4272"
-         sodipodi:role="line">Service</tspan></text>
-  </g>
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008080;fill-opacity:1;stroke:none"
+       x="291.67114"
+       y="933.89423"
+       id="text4211"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4213"
+         x="291.67114"
+         y="933.89423">Service</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4276"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(2.3632151,-0.18776232,0,1.3136268,-760.28076,-146.03617)"><flowRegion
+         id="flowRegion4278"><rect
+           id="rect4280"
+           width="183.14064"
+           height="89.802551"
+           x="370.52396"
+           y="835.2804"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara4283"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">b</flowPara></flowRoot>  </g>
 </svg>

@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="171.15387mm"
-   height="241.18692mm"
+   width="199.90233mm"
+   height="65.92067mm"
    id="svg4993"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo_v2.3.svg"
+   sodipodi:docname="logo_v2.2.1.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
-   inkscape:export-filename="/Users/bruno/Desktop/logo.png"
+   inkscape:export-filename="/Users/brunoboissonnet/Documents/binfoservice/logo/logo_v2.2.png"
    inkscape:export-xdpi="80.800003"
    inkscape:export-ydpi="80.800003"
    version="1.1">
@@ -37,21 +37,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.91223345"
-     inkscape:cx="164.77568"
-     inkscape:cy="435.7773"
+     inkscape:zoom="0.95024318"
+     inkscape:cx="258.5258"
+     inkscape:cy="220.77857"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1466"
-     inkscape:window-height="1161"
-     inkscape:window-x="114"
-     inkscape:window-y="0"
+     inkscape:window-width="1398"
+     inkscape:window-height="932"
+     inkscape:window-x="309"
+     inkscape:window-y="24"
      inkscape:window-maximized="0"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-top="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     fit-margin-left="5" />
   <metadata
      id="metadata4998">
     <rdf:RDF>
@@ -68,768 +68,75 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-54.474323,0.25057766)">
-    <g
-       id="g4363">
-      <rect
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         style="fill:#e98732;fill-opacity:1;stroke:#e98732;stroke-width:1.42118204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect3156"
-         width="286.51059"
-         height="191.87157"
-         x="55.184914"
-         y="1.7665896" />
-      <g
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         id="g3160"
-         transform="matrix(2.527624,0,0,2.527624,-926.50769,-1035.2816)"
-         style="opacity:0.14661656;fill:#ffffff;fill-opacity:1">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 446.5572,430.31382 c 0,0 -1.13654,-1.49754 -3.15871,-1.90196 -1.16419,-0.23286 -13.19559,-1.61037 -15.11638,-0.9518 -2.8458,0.9757 -3.80283,4.52335 -3.84161,6.0368 l 0,16.40917 c 0.49392,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73106 14.48836,-1.81102 1.70127,-0.43905 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.1649,2.69593 -2.63423,3.8965 -1.26227,0.93296 -1.53666,0.7683 -2.08545,0.93296 -1.37579,0.41272 -12.72434,2.60423 -13.99445,2.68912 -4.55505,0.27439 -9.8235,-3.15432 -9.94271,-7.55853 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71968 9.22213,-7.49033 1.74628,0.11642 13.2498,1.78165 14.80205,2.05329 3.69896,0.64732 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           id="path3162"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 465.48248,441.96016 c 0,0 -1.13653,-1.49754 -3.1587,-1.90196 -1.16419,-0.23285 -13.19559,-1.61037 -15.11639,-0.9518 -2.84579,0.97571 -3.80282,4.52336 -3.84161,6.0368 l 0,16.40918 c 0.49392,4.50016 3.39093,6.24555 4.55506,6.25631 -0.0549,0 14.1785,-1.73106 14.48835,-1.81101 1.70127,-0.43906 2.68913,-2.08546 2.68913,-2.08546 0,0 -1.1649,2.69593 -2.63424,3.8965 -1.26226,0.93296 -1.53665,0.7683 -2.08545,0.93296 -1.37578,0.41272 -12.72434,2.60424 -13.99445,2.68913 -4.55505,0.27438 -9.8235,-3.15433 -9.94271,-7.55854 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.7821,-7.71967 9.22213,-7.49032 1.74627,0.11641 13.2498,1.78165 14.80204,2.05328 3.69897,0.64733 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           id="path3164"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 435.63877,452.15071 c 0,0 -1.13654,-1.49755 -3.15871,-1.90197 -1.16419,-0.23285 -13.19559,-1.61037 -15.11638,-0.95179 -2.8458,0.97569 -3.80283,4.52335 -3.84161,6.03679 l 0,16.40918 c 0.49391,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73107 14.48836,-1.81103 1.70127,-0.43904 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.16491,2.69593 -2.63423,3.8965 -1.26227,0.93297 -1.53666,0.76831 -2.08546,0.93297 -1.37578,0.41271 -12.72433,2.60422 -13.99445,2.68911 -4.55505,0.2744 -9.82349,-3.15432 -9.9427,-7.55852 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71969 9.22213,-7.49034 1.74628,0.11642 13.2498,1.78166 14.80205,2.0533 3.69896,0.64732 4.85607,3.32495 4.85607,3.32495 l 0.21954,0.60369 z"
-           id="path3166"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-      </g>
-      <text
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         transform="scale(1.1020865,0.9073698)"
-         sodipodi:linespacing="125%"
-         id="text3168"
-         y="84.375504"
-         x="167.77048"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16808319px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#ffffff;fill-opacity:1"
-           y="84.375504"
-           x="167.77048"
-           id="tspan3170"
-           sodipodi:role="line">info</tspan></text>
-      <path
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:connector-curvature="0"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-         d="m 117.35833,95.69313 0,-52.28071 7.86265,0 0,22.90362 c 3.21953,-4.99474 8.04889,-7.4921 14.48801,-7.49215 5.2151,5e-5 9.31274,1.56639 12.29292,4.69901 3.00659,3.13273 4.50998,7.41553 4.50998,12.8484 0,5.91484 -1.70294,10.69055 -5.10872,14.32707 -3.37922,3.61465 -7.83604,5.42195 -13.37046,5.42195 -5.13538,0 -9.40595,-1.62109 -12.81173,-4.86331 l -0.95792,4.43612 -6.90473,0 m 7.86265,-8.90512 c 4.04437,2.97933 7.90251,4.469 11.57445,4.469 3.61863,0 6.41247,-1.23773 8.38151,-3.71321 1.96891,-2.49737 2.95343,-6.00248 2.95348,-10.51529 -5e-5,-8.3684 -3.35262,-12.55261 -10.0578,-12.55266 -4.39036,5e-5 -8.67424,1.96072 -12.85164,5.88202 l 0,16.43014"
-         id="path3172" />
-      <text
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         transform="matrix(0.98880005,-0.03643632,0,1.0113268,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3174"
-         y="110.85519"
-         x="186.08295"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.96607208px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3176"
-           x="186.08295"
-           y="110.85519">service</tspan></text>
-      <path
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:connector-curvature="0"
-         id="path3178"
-         d="M 97.54884,9.82579 C 80.85741,10.59296 67.306,24.59889 67.1886,41.30753 l -0.48065,60.31998 c -0.1175,16.70871 14.54996,35.37306 31.24144,34.6059 l 44.77935,-7.93052 c 9.60977,-0.44167 18.14821,-5.34798 23.71147,-12.57665 2.92823,-1.63603 5.28671,-3.81322 6.96925,-6.80904 2.52375,-4.49372 3.60475,-10.60736 3.60475,-19.38571 l 0.24033,-36.12791 c 0,-14.07994 -4.92311,-23.35419 -12.25626,-27.95708 -5.38804,-4.75247 -12.9068,-9.41598 -21.38833,-10.65413 L 97.54884,9.82579 Z m 10.81433,10.81434 0.0801,0 49.98629,4.64616 0.0801,0 c 9.32405,2.5486 16.26155,11.27442 16.26155,28.11729 l -0.24026,36.12791 c 0,8.56975 -1.09702,14.28947 -3.28435,18.18412 -2.14758,3.82385 -5.4026,6.04207 -10.1735,7.61008 l -0.0801,0 -52.54971,5.92788 c -0.0247,0 -0.0554,2e-4 -0.0801,0 -4.19431,-0.0359 -8.13507,-3.10117 -11.13472,-8.49129 -3.01737,-5.42188 -4.8865,-13.06205 -4.8865,-21.54856 l 0,-40.53376 c 0,-8.48649 1.86913,-16.1267 4.8865,-21.54857 2.99965,-5.39014 6.94037,-8.4554 11.13472,-8.49126 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-    </g>
-    <g
-       id="g4411"
-       transform="translate(0,-6)">
-      <rect
-         y="225.7666"
-         x="59.184914"
-         height="191.87157"
-         width="286.51059"
-         id="rect4349"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42118204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289" />
-      <g
-         style="opacity:0.14661656;fill:#e98732;fill-opacity:1"
-         transform="matrix(2.527624,0,0,2.527624,-926.5077,-791.28158)"
-         id="g3933"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289">
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path3935"
-           d="m 446.5572,430.31382 c 0,0 -1.13654,-1.49754 -3.15871,-1.90196 -1.16419,-0.23286 -13.19559,-1.61037 -15.11638,-0.9518 -2.8458,0.9757 -3.80283,4.52335 -3.84161,6.0368 l 0,16.40917 c 0.49392,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73106 14.48836,-1.81102 1.70127,-0.43905 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.1649,2.69593 -2.63423,3.8965 -1.26227,0.93296 -1.53666,0.7683 -2.08545,0.93296 -1.37579,0.41272 -12.72434,2.60423 -13.99445,2.68912 -4.55505,0.27439 -9.8235,-3.15432 -9.94271,-7.55853 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71968 9.22213,-7.49033 1.74628,0.11642 13.2498,1.78165 14.80205,2.05329 3.69896,0.64732 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           style="fill:#e98732;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path3937"
-           d="m 465.48248,441.96016 c 0,0 -1.13653,-1.49754 -3.1587,-1.90196 -1.16419,-0.23285 -13.19559,-1.61037 -15.11639,-0.9518 -2.84579,0.97571 -3.80282,4.52336 -3.84161,6.0368 l 0,16.40918 c 0.49392,4.50016 3.39093,6.24555 4.55506,6.25631 -0.0549,0 14.1785,-1.73106 14.48835,-1.81101 1.70127,-0.43906 2.68913,-2.08546 2.68913,-2.08546 0,0 -1.1649,2.69593 -2.63424,3.8965 -1.26226,0.93296 -1.53665,0.7683 -2.08545,0.93296 -1.37578,0.41272 -12.72434,2.60424 -13.99445,2.68913 -4.55505,0.27438 -9.8235,-3.15433 -9.94271,-7.55854 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.7821,-7.71967 9.22213,-7.49032 1.74627,0.11641 13.2498,1.78165 14.80204,2.05328 3.69897,0.64733 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           style="fill:#e98732;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path3939"
-           d="m 435.63877,452.15071 c 0,0 -1.13654,-1.49755 -3.15871,-1.90197 -1.16419,-0.23285 -13.19559,-1.61037 -15.11638,-0.95179 -2.8458,0.97569 -3.80283,4.52335 -3.84161,6.03679 l 0,16.40918 c 0.49391,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73107 14.48836,-1.81103 1.70127,-0.43904 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.16491,2.69593 -2.63423,3.8965 -1.26227,0.93297 -1.53666,0.76831 -2.08546,0.93297 -1.37578,0.41271 -12.72433,2.60422 -13.99445,2.68911 -4.55505,0.2744 -9.82349,-3.15432 -9.9427,-7.55852 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71969 9.22213,-7.49034 1.74628,0.11642 13.2498,1.78166 14.80205,2.0533 3.69896,0.64732 4.85607,3.32495 4.85607,3.32495 l 0.21954,0.60369 z"
-           style="fill:#e98732;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16808319px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e98732;fill-opacity:1;stroke:none"
-         x="167.77046"
-         y="353.28461"
-         id="text3941"
-         sodipodi:linespacing="125%"
-         transform="scale(1.1020865,0.9073698)"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289"><tspan
-           sodipodi:role="line"
-           id="tspan3943"
-           x="167.77046"
-           y="353.28461"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#e98732;fill-opacity:1">info</tspan></text>
-      <path
-         id="path3945"
-         d="m 117.35833,339.69313 0,-52.28071 7.86265,0 0,22.90362 c 3.21953,-4.99474 8.04889,-7.4921 14.48801,-7.49215 5.2151,5e-5 9.31274,1.56639 12.29292,4.69901 3.00659,3.13273 4.50998,7.41553 4.50998,12.8484 0,5.91484 -1.70294,10.69055 -5.10872,14.32707 -3.37922,3.61465 -7.83604,5.42195 -13.37046,5.42195 -5.13538,0 -9.40595,-1.62109 -12.81173,-4.86331 l -0.95792,4.43612 -6.90473,0 m 7.86265,-8.90512 c 4.04437,2.97933 7.90251,4.469 11.57445,4.469 3.61863,0 6.41247,-1.23773 8.38151,-3.71321 1.96891,-2.49737 2.95343,-6.00248 2.95348,-10.51529 -5e-5,-8.3684 -3.35262,-12.55261 -10.0578,-12.55266 -4.39036,5e-5 -8.67424,1.96072 -12.85164,5.88202 l 0,16.43014"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e98732;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289" />
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.96607208px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#e98732;fill-opacity:1;stroke:none"
-         x="186.08295"
-         y="352.12216"
-         id="text3947"
-         sodipodi:linespacing="125%"
-         transform="matrix(0.98880005,-0.03643632,0,1.0113268,0,0)"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289"><tspan
-           y="352.12216"
-           x="186.08295"
-           id="tspan3949"
-           sodipodi:role="line">service</tspan></text>
-      <path
-         style="fill:#e98732;fill-opacity:1;stroke:none"
-         d="M 97.54884,253.82579 C 80.85741,254.59296 67.306,268.59889 67.1886,285.30753 l -0.48065,60.31998 c -0.1175,16.70871 14.54996,35.37306 31.24144,34.6059 l 44.77935,-7.93052 c 9.60977,-0.44167 18.14821,-5.34798 23.71147,-12.57665 2.92823,-1.63603 5.28671,-3.81322 6.96925,-6.80904 2.52375,-4.49372 3.60475,-10.60736 3.60475,-19.38571 l 0.24033,-36.12791 c 0,-14.07994 -4.92311,-23.35419 -12.25626,-27.95708 -5.38804,-4.75247 -12.9068,-9.41598 -21.38833,-10.65413 l -46.06111,-4.96658 z m 10.81433,10.81434 0.0801,0 49.98629,4.64616 0.0801,0 c 9.32405,2.5486 16.26155,11.27442 16.26155,28.11729 l -0.24026,36.12791 c 0,8.56975 -1.09702,14.28947 -3.28435,18.18412 -2.14758,3.82385 -5.4026,6.04207 -10.1735,7.61008 l -0.0801,0 -52.54971,5.92788 c -0.0247,0 -0.0554,2e-4 -0.0801,0 -4.19431,-0.0359 -8.13507,-3.10117 -11.13472,-8.49129 -3.01737,-5.42188 -4.8865,-13.06205 -4.8865,-21.54856 l 0,-40.53376 c 0,-8.48649 1.86913,-16.1267 4.8865,-21.54857 2.99965,-5.39014 6.94037,-8.4554 11.13472,-8.49126 z"
-         id="path3951"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289" />
-    </g>
-    <g
-       id="g4424"
-       transform="translate(0,-2)">
-      <rect
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42118204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4351"
-         width="286.51059"
-         height="191.87157"
-         x="59.184906"
-         y="441.7666" />
-      <g
-         inkscape:export-ydpi="43.481079"
-         inkscape:export-xdpi="43.481079"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         id="g3953"
-         transform="matrix(2.527624,0,0,2.527624,-922.5077,-591.28158)"
-         style="opacity:0.14661656;fill:#1a1a1a;fill-opacity:1">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 446.5572,430.31382 c 0,0 -1.13654,-1.49754 -3.15871,-1.90196 -1.16419,-0.23286 -13.19559,-1.61037 -15.11638,-0.9518 -2.8458,0.9757 -3.80283,4.52335 -3.84161,6.0368 l 0,16.40917 c 0.49392,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73106 14.48836,-1.81102 1.70127,-0.43905 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.1649,2.69593 -2.63423,3.8965 -1.26227,0.93296 -1.53666,0.7683 -2.08545,0.93296 -1.37579,0.41272 -12.72434,2.60423 -13.99445,2.68912 -4.55505,0.27439 -9.8235,-3.15432 -9.94271,-7.55853 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71968 9.22213,-7.49033 1.74628,0.11642 13.2498,1.78165 14.80205,2.05329 3.69896,0.64732 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           id="path3955"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 465.48248,441.96016 c 0,0 -1.13653,-1.49754 -3.1587,-1.90196 -1.16419,-0.23285 -13.19559,-1.61037 -15.11639,-0.9518 -2.84579,0.97571 -3.80282,4.52336 -3.84161,6.0368 l 0,16.40918 c 0.49392,4.50016 3.39093,6.24555 4.55506,6.25631 -0.0549,0 14.1785,-1.73106 14.48835,-1.81101 1.70127,-0.43906 2.68913,-2.08546 2.68913,-2.08546 0,0 -1.1649,2.69593 -2.63424,3.8965 -1.26226,0.93296 -1.53665,0.7683 -2.08545,0.93296 -1.37578,0.41272 -12.72434,2.60424 -13.99445,2.68913 -4.55505,0.27438 -9.8235,-3.15433 -9.94271,-7.55854 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.7821,-7.71967 9.22213,-7.49032 1.74627,0.11641 13.2498,1.78165 14.80204,2.05328 3.69897,0.64733 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           id="path3957"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 435.63877,452.15071 c 0,0 -1.13654,-1.49755 -3.15871,-1.90197 -1.16419,-0.23285 -13.19559,-1.61037 -15.11638,-0.95179 -2.8458,0.97569 -3.80283,4.52335 -3.84161,6.03679 l 0,16.40918 c 0.49391,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73107 14.48836,-1.81103 1.70127,-0.43904 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.16491,2.69593 -2.63423,3.8965 -1.26227,0.93297 -1.53666,0.76831 -2.08546,0.93297 -1.37578,0.41271 -12.72433,2.60422 -13.99445,2.68911 -4.55505,0.2744 -9.82349,-3.15432 -9.9427,-7.55852 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71969 9.22213,-7.49034 1.74628,0.11642 13.2498,1.78166 14.80205,2.0533 3.69896,0.64732 4.85607,3.32495 4.85607,3.32495 l 0.21954,0.60369 z"
-           id="path3960"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-      </g>
-      <text
-         inkscape:export-ydpi="43.481079"
-         inkscape:export-xdpi="43.481079"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         transform="scale(1.1020865,0.9073698)"
-         sodipodi:linespacing="125%"
-         id="text3962"
-         y="573.70184"
-         x="171.39996"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16808319px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#1a1a1a;fill-opacity:1"
-           y="573.70184"
-           x="171.39996"
-           id="tspan3964"
-           sodipodi:role="line">info</tspan></text>
-      <path
-         inkscape:export-ydpi="43.481079"
-         inkscape:export-xdpi="43.481079"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:connector-curvature="0"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none"
-         d="m 121.35833,539.69313 0,-52.28071 7.86265,0 0,22.90362 c 3.21953,-4.99474 8.04889,-7.4921 14.48801,-7.49215 5.2151,5e-5 9.31274,1.56639 12.29292,4.69901 3.00659,3.13273 4.50998,7.41553 4.50998,12.8484 0,5.91484 -1.70294,10.69055 -5.10872,14.32707 -3.37922,3.61465 -7.83604,5.42195 -13.37046,5.42195 -5.13538,0 -9.40595,-1.62109 -12.81173,-4.86331 l -0.95792,4.43612 -6.90473,0 m 7.86265,-8.90512 c 4.04437,2.97933 7.90251,4.469 11.57445,4.469 3.61863,0 6.41247,-1.23773 8.38151,-3.71321 1.96891,-2.49737 2.95343,-6.00248 2.95348,-10.51529 -5e-5,-8.3684 -3.35262,-12.55261 -10.0578,-12.55266 -4.39036,5e-5 -8.67424,1.96072 -12.85164,5.88202 l 0,16.43014"
-         id="path3966" />
-      <text
-         inkscape:export-ydpi="43.481079"
-         inkscape:export-xdpi="43.481079"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         transform="matrix(0.98880005,-0.03643632,0,1.0113268,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3968"
-         y="550.02777"
-         x="190.12823"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.96607208px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3970"
-           x="190.12823"
-           y="550.02777">service</tspan></text>
-      <path
-         inkscape:export-ydpi="43.481079"
-         inkscape:export-xdpi="43.481079"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:connector-curvature="0"
-         id="path3972"
-         d="M 101.54884,453.82579 C 84.85741,454.59296 71.306,468.59889 71.1886,485.30753 l -0.48065,60.31998 c -0.1175,16.70871 14.54996,35.37306 31.24144,34.6059 l 44.77935,-7.93052 c 9.60977,-0.44167 18.14821,-5.34798 23.71147,-12.57665 2.92823,-1.63603 5.28671,-3.81322 6.96925,-6.80904 2.52375,-4.49372 3.60475,-10.60736 3.60475,-19.38571 l 0.24033,-36.12791 c 0,-14.07994 -4.92311,-23.35419 -12.25626,-27.95708 -5.38804,-4.75247 -12.9068,-9.41598 -21.38833,-10.65413 l -46.06111,-4.96658 z m 10.81433,10.81434 0.0801,0 49.98629,4.64616 0.0801,0 c 9.32405,2.5486 16.26155,11.27442 16.26155,28.11729 l -0.24026,36.12791 c 0,8.56975 -1.09702,14.28947 -3.28435,18.18412 -2.14758,3.82385 -5.4026,6.04207 -10.1735,7.61008 l -0.0801,0 -52.54971,5.92788 c -0.0247,0 -0.0554,2e-4 -0.0801,0 -4.19431,-0.0359 -8.13507,-3.10117 -11.13472,-8.49129 -3.01737,-5.42188 -4.8865,-13.06205 -4.8865,-21.54856 l 0,-40.53376 c 0,-8.48649 1.86913,-16.1267 4.8865,-21.54857 2.99965,-5.39014 6.94037,-8.4554 11.13472,-8.49126 z"
-         style="fill:#1a1a1a;fill-opacity:1;stroke:none" />
-    </g>
-    <g
-       id="g4437">
-      <rect
-         y="661.7666"
-         x="59.184906"
-         height="191.87157"
-         width="286.51059"
-         id="rect4353"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42118204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289" />
-      <g
-         style="opacity:0.14661656;fill:#3ec14d;fill-opacity:1"
-         transform="matrix(2.527624,0,0,2.527624,-922.5077,-371.28158)"
-         id="g3994"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289">
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path3996"
-           d="m 446.5572,430.31382 c 0,0 -1.13654,-1.49754 -3.15871,-1.90196 -1.16419,-0.23286 -13.19559,-1.61037 -15.11638,-0.9518 -2.8458,0.9757 -3.80283,4.52335 -3.84161,6.0368 l 0,16.40917 c 0.49392,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73106 14.48836,-1.81102 1.70127,-0.43905 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.1649,2.69593 -2.63423,3.8965 -1.26227,0.93296 -1.53666,0.7683 -2.08545,0.93296 -1.37579,0.41272 -12.72434,2.60423 -13.99445,2.68912 -4.55505,0.27439 -9.8235,-3.15432 -9.94271,-7.55853 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71968 9.22213,-7.49033 1.74628,0.11642 13.2498,1.78165 14.80205,2.05329 3.69896,0.64732 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           style="fill:#3ec14d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path3998"
-           d="m 465.48248,441.96016 c 0,0 -1.13653,-1.49754 -3.1587,-1.90196 -1.16419,-0.23285 -13.19559,-1.61037 -15.11639,-0.9518 -2.84579,0.97571 -3.80282,4.52336 -3.84161,6.0368 l 0,16.40918 c 0.49392,4.50016 3.39093,6.24555 4.55506,6.25631 -0.0549,0 14.1785,-1.73106 14.48835,-1.81101 1.70127,-0.43906 2.68913,-2.08546 2.68913,-2.08546 0,0 -1.1649,2.69593 -2.63424,3.8965 -1.26226,0.93296 -1.53665,0.7683 -2.08545,0.93296 -1.37578,0.41272 -12.72434,2.60424 -13.99445,2.68913 -4.55505,0.27438 -9.8235,-3.15433 -9.94271,-7.55854 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.7821,-7.71967 9.22213,-7.49032 1.74627,0.11641 13.2498,1.78165 14.80204,2.05328 3.69897,0.64733 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           style="fill:#3ec14d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path4000"
-           d="m 435.63877,452.15071 c 0,0 -1.13654,-1.49755 -3.15871,-1.90197 -1.16419,-0.23285 -13.19559,-1.61037 -15.11638,-0.95179 -2.8458,0.97569 -3.80283,4.52335 -3.84161,6.03679 l 0,16.40918 c 0.49391,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73107 14.48836,-1.81103 1.70127,-0.43904 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.16491,2.69593 -2.63423,3.8965 -1.26227,0.93297 -1.53666,0.76831 -2.08546,0.93297 -1.37578,0.41271 -12.72433,2.60422 -13.99445,2.68911 -4.55505,0.2744 -9.82349,-3.15432 -9.9427,-7.55852 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71969 9.22213,-7.49034 1.74628,0.11642 13.2498,1.78166 14.80205,2.0533 3.69896,0.64732 4.85607,3.32495 4.85607,3.32495 l 0.21954,0.60369 z"
-           style="fill:#3ec14d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16808319px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3ec14d;fill-opacity:1;stroke:none"
-         x="171.39993"
-         y="816.16107"
-         id="text4002"
-         sodipodi:linespacing="125%"
-         transform="scale(1.1020865,0.9073698)"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289"><tspan
-           sodipodi:role="line"
-           id="tspan4004"
-           x="171.39993"
-           y="816.16107"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#3ec14d;fill-opacity:1">info</tspan></text>
-      <path
-         id="path4006"
-         d="m 121.35833,759.69313 0,-52.28071 7.86265,0 0,22.90362 c 3.21953,-4.99474 8.04889,-7.4921 14.48801,-7.49215 5.2151,5e-5 9.31274,1.56639 12.29292,4.69901 3.00659,3.13273 4.50998,7.41553 4.50998,12.8484 0,5.91484 -1.70294,10.69055 -5.10872,14.32707 -3.37922,3.61465 -7.83604,5.42195 -13.37046,5.42195 -5.13538,0 -9.40595,-1.62109 -12.81173,-4.86331 l -0.95792,4.43612 -6.90473,0 m 7.86265,-8.90512 c 4.04437,2.97933 7.90251,4.469 11.57445,4.469 3.61863,0 6.41247,-1.23773 8.38151,-3.71321 1.96891,-2.49737 2.95343,-6.00248 2.95348,-10.51529 -5e-5,-8.3684 -3.35262,-12.55261 -10.0578,-12.55266 -4.39036,5e-5 -8.67424,1.96072 -12.85164,5.88202 l 0,16.43014"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3ec14d;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289" />
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.96607208px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3ec14d;fill-opacity:1;stroke:none"
-         x="190.1283"
-         y="767.56415"
-         id="text4008"
-         sodipodi:linespacing="125%"
-         transform="matrix(0.98880005,-0.03643632,0,1.0113268,0,0)"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289"><tspan
-           y="767.56415"
-           x="190.1283"
-           id="tspan4010"
-           sodipodi:role="line">service</tspan></text>
-      <path
-         style="fill:#3ec14d;fill-opacity:1;stroke:none"
-         d="M 101.54884,673.82579 C 84.85741,674.59296 71.306,688.59889 71.1886,705.30753 l -0.48065,60.31998 c -0.1175,16.70871 14.54996,35.37306 31.24144,34.6059 l 44.77935,-7.93052 c 9.60977,-0.44167 18.14821,-5.34798 23.71147,-12.57665 2.92823,-1.63603 5.28671,-3.81322 6.96925,-6.80904 2.52375,-4.49372 3.60475,-10.60736 3.60475,-19.38571 l 0.24033,-36.12791 c 0,-14.07994 -4.92311,-23.35419 -12.25626,-27.95708 -5.38804,-4.75247 -12.9068,-9.41598 -21.38833,-10.65413 l -46.06111,-4.96658 z m 10.81433,10.81434 0.0801,0 49.98629,4.64616 0.0801,0 c 9.32405,2.5486 16.26155,11.27442 16.26155,28.11729 l -0.24026,36.12791 c 0,8.56975 -1.09702,14.28947 -3.28435,18.18412 -2.14758,3.82385 -5.4026,6.04207 -10.1735,7.61008 l -0.0801,0 -52.54971,5.92788 c -0.0247,0 -0.0554,2e-4 -0.0801,0 -4.19431,-0.0359 -8.13507,-3.10117 -11.13472,-8.49129 -3.01737,-5.42188 -4.8865,-13.06205 -4.8865,-21.54856 l 0,-40.53376 c 0,-8.48649 1.86913,-16.1267 4.8865,-21.54857 2.99965,-5.39014 6.94037,-8.4554 11.13472,-8.49126 z"
-         id="path4012"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289" />
-    </g>
-    <g
-       id="g4463">
-      <rect
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42118204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4359"
-         width="286.51059"
-         height="191.87157"
-         x="373.70386"
-         y="440.45999" />
-      <g
-         style="opacity:0.14661656;fill:#b66227;fill-opacity:1"
-         transform="matrix(2.527624,0,0,2.527624,-607.98876,-592.58817)"
-         id="g4034"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289">
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path4036"
-           d="m 446.5572,430.31382 c 0,0 -1.13654,-1.49754 -3.15871,-1.90196 -1.16419,-0.23286 -13.19559,-1.61037 -15.11638,-0.9518 -2.8458,0.9757 -3.80283,4.52335 -3.84161,6.0368 l 0,16.40917 c 0.49392,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73106 14.48836,-1.81102 1.70127,-0.43905 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.1649,2.69593 -2.63423,3.8965 -1.26227,0.93296 -1.53666,0.7683 -2.08545,0.93296 -1.37579,0.41272 -12.72434,2.60423 -13.99445,2.68912 -4.55505,0.27439 -9.8235,-3.15432 -9.94271,-7.55853 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71968 9.22213,-7.49033 1.74628,0.11642 13.2498,1.78165 14.80205,2.05329 3.69896,0.64732 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           style="fill:#b66227;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path4038"
-           d="m 465.48248,441.96016 c 0,0 -1.13653,-1.49754 -3.1587,-1.90196 -1.16419,-0.23285 -13.19559,-1.61037 -15.11639,-0.9518 -2.84579,0.97571 -3.80282,4.52336 -3.84161,6.0368 l 0,16.40918 c 0.49392,4.50016 3.39093,6.24555 4.55506,6.25631 -0.0549,0 14.1785,-1.73106 14.48835,-1.81101 1.70127,-0.43906 2.68913,-2.08546 2.68913,-2.08546 0,0 -1.1649,2.69593 -2.63424,3.8965 -1.26226,0.93296 -1.53665,0.7683 -2.08545,0.93296 -1.37578,0.41272 -12.72434,2.60424 -13.99445,2.68913 -4.55505,0.27438 -9.8235,-3.15433 -9.94271,-7.55854 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.7821,-7.71967 9.22213,-7.49032 1.74627,0.11641 13.2498,1.78165 14.80204,2.05328 3.69897,0.64733 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           style="fill:#b66227;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:export-ydpi="203.55"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           id="path4040"
-           d="m 435.63877,452.15071 c 0,0 -1.13654,-1.49755 -3.15871,-1.90197 -1.16419,-0.23285 -13.19559,-1.61037 -15.11638,-0.95179 -2.8458,0.97569 -3.80283,4.52335 -3.84161,6.03679 l 0,16.40918 c 0.49391,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73107 14.48836,-1.81103 1.70127,-0.43904 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.16491,2.69593 -2.63423,3.8965 -1.26227,0.93297 -1.53666,0.76831 -2.08546,0.93297 -1.37578,0.41271 -12.72433,2.60422 -13.99445,2.68911 -4.55505,0.2744 -9.82349,-3.15432 -9.9427,-7.55852 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71969 9.22213,-7.49034 1.74628,0.11642 13.2498,1.78166 14.80205,2.0533 3.69896,0.64732 4.85607,3.32495 4.85607,3.32495 l 0.21954,0.60369 z"
-           style="fill:#b66227;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16808319px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b66227;fill-opacity:1;stroke:none"
-         x="456.78494"
-         y="572.26233"
-         id="text4042"
-         sodipodi:linespacing="125%"
-         transform="scale(1.1020865,0.9073698)"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289"><tspan
-           sodipodi:role="line"
-           id="tspan4044"
-           x="456.78494"
-           y="572.26233"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#b66227;fill-opacity:1">info</tspan></text>
-      <path
-         id="path4046"
-         d="m 435.87727,538.38651 0,-52.2807 7.86265,0 0,22.9036 c 3.21953,-4.9947 8.04889,-7.4921 14.48801,-7.4921 5.2151,0 9.31274,1.5664 12.29292,4.699 3.00659,3.1327 4.50998,7.4155 4.50998,12.8484 0,5.9148 -1.70294,10.6906 -5.10872,14.3271 -3.37922,3.6146 -7.83604,5.4219 -13.37046,5.4219 -5.13538,0 -9.40595,-1.6211 -12.81173,-4.8633 l -0.95792,4.4361 -6.90473,0 m 7.86265,-8.9051 c 4.04437,2.9793 7.90251,4.469 11.57445,4.469 3.61863,0 6.41247,-1.2377 8.38151,-3.7132 1.96891,-2.4974 2.95343,-6.0025 2.95348,-10.5153 -5e-5,-8.3684 -3.35262,-12.5526 -10.0578,-12.5526 -4.39036,0 -8.67424,1.9607 -12.85164,5.882 l 0,16.4301"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b66227;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289" />
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.96607208px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b66227;fill-opacity:1;stroke:none"
-         x="508.20975"
-         y="560.19604"
-         id="text4048"
-         sodipodi:linespacing="125%"
-         transform="matrix(0.98880005,-0.03643632,0,1.0113268,0,0)"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289"><tspan
-           y="560.19604"
-           x="508.20975"
-           id="tspan4050"
-           sodipodi:role="line">service</tspan></text>
-      <path
-         style="fill:#b66227;fill-opacity:1;stroke:none"
-         d="m 416.06778,452.51921 c -16.69143,0.7672 -30.24284,14.7731 -30.36024,31.4817 l -0.48065,60.32 c -0.1175,16.7087 14.54996,35.3731 31.24144,34.6059 l 44.77935,-7.9305 c 9.60977,-0.4417 18.14821,-5.348 23.71147,-12.5767 2.92823,-1.636 5.28671,-3.8132 6.96925,-6.809 2.52375,-4.4937 3.60475,-10.6074 3.60475,-19.3857 l 0.24033,-36.1279 c 0,-14.08 -4.92311,-23.3542 -12.25626,-27.9571 -5.38804,-4.7525 -12.9068,-9.416 -21.38833,-10.6541 l -46.06111,-4.9666 z m 10.81433,10.8143 0.0801,0 49.98629,4.6462 0.0801,0 c 9.32405,2.5486 16.26155,11.2744 16.26155,28.1173 l -0.24026,36.1279 c 0,8.5697 -1.09702,14.2895 -3.28435,18.1841 -2.14758,3.8239 -5.4026,6.0421 -10.1735,7.6101 l -0.0801,0 -52.54971,5.9279 c -0.0247,0 -0.0554,2e-4 -0.0801,0 -4.19431,-0.036 -8.13507,-3.1012 -11.13472,-8.4913 -3.01737,-5.4219 -4.8865,-13.0621 -4.8865,-21.5486 l 0,-40.5337 c 0,-8.4865 1.86913,-16.1267 4.8865,-21.5486 2.99965,-5.3901 6.94037,-8.4554 11.13472,-8.4913 z"
-         id="path4052"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289" />
-    </g>
-    <g
-       id="g4476">
-      <rect
-         y="660.46002"
-         x="373.70386"
-         height="191.87157"
-         width="286.51059"
-         id="rect4361"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42118204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289" />
-      <g
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         id="g4054"
-         transform="matrix(2.527624,0,0,2.527624,-607.98876,-372.58817)"
-         style="opacity:0.14661656;fill:#db6d1e;fill-opacity:1">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#db6d1e;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 446.5572,430.31382 c 0,0 -1.13654,-1.49754 -3.15871,-1.90196 -1.16419,-0.23286 -13.19559,-1.61037 -15.11638,-0.9518 -2.8458,0.9757 -3.80283,4.52335 -3.84161,6.0368 l 0,16.40917 c 0.49392,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73106 14.48836,-1.81102 1.70127,-0.43905 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.1649,2.69593 -2.63423,3.8965 -1.26227,0.93296 -1.53666,0.7683 -2.08545,0.93296 -1.37579,0.41272 -12.72434,2.60423 -13.99445,2.68912 -4.55505,0.27439 -9.8235,-3.15432 -9.94271,-7.55853 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71968 9.22213,-7.49033 1.74628,0.11642 13.2498,1.78165 14.80205,2.05329 3.69896,0.64732 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           id="path4056"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#db6d1e;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 465.48248,441.96016 c 0,0 -1.13653,-1.49754 -3.1587,-1.90196 -1.16419,-0.23285 -13.19559,-1.61037 -15.11639,-0.9518 -2.84579,0.97571 -3.80282,4.52336 -3.84161,6.0368 l 0,16.40918 c 0.49392,4.50016 3.39093,6.24555 4.55506,6.25631 -0.0549,0 14.1785,-1.73106 14.48835,-1.81101 1.70127,-0.43906 2.68913,-2.08546 2.68913,-2.08546 0,0 -1.1649,2.69593 -2.63424,3.8965 -1.26226,0.93296 -1.53665,0.7683 -2.08545,0.93296 -1.37578,0.41272 -12.72434,2.60424 -13.99445,2.68913 -4.55505,0.27438 -9.8235,-3.15433 -9.94271,-7.55854 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.7821,-7.71967 9.22213,-7.49032 1.74627,0.11641 13.2498,1.78165 14.80204,2.05328 3.69897,0.64733 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           id="path4058"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#db6d1e;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 435.63877,452.15071 c 0,0 -1.13654,-1.49755 -3.15871,-1.90197 -1.16419,-0.23285 -13.19559,-1.61037 -15.11638,-0.95179 -2.8458,0.97569 -3.80283,4.52335 -3.84161,6.03679 l 0,16.40918 c 0.49391,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73107 14.48836,-1.81103 1.70127,-0.43904 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.16491,2.69593 -2.63423,3.8965 -1.26227,0.93297 -1.53666,0.76831 -2.08546,0.93297 -1.37578,0.41271 -12.72433,2.60422 -13.99445,2.68911 -4.55505,0.2744 -9.82349,-3.15432 -9.9427,-7.55852 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71969 9.22213,-7.49034 1.74628,0.11642 13.2498,1.78166 14.80205,2.0533 3.69896,0.64732 4.85607,3.32495 4.85607,3.32495 l 0.21954,0.60369 z"
-           id="path4060"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-      </g>
-      <text
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         transform="scale(1.1020865,0.9073698)"
-         sodipodi:linespacing="125%"
-         id="text4062"
-         y="814.72168"
-         x="456.78494"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16808319px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#db6d1e;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#db6d1e;fill-opacity:1"
-           y="814.72168"
-           x="456.78494"
-           id="tspan4064"
-           sodipodi:role="line">info</tspan></text>
-      <path
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:connector-curvature="0"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#db6d1e;fill-opacity:1;stroke:none"
-         d="m 435.87727,758.38651 0,-52.2807 7.86265,0 0,22.9036 c 3.21953,-4.9947 8.04889,-7.4921 14.48801,-7.4921 5.2151,0 9.31274,1.5664 12.29292,4.699 3.00659,3.1327 4.50998,7.4155 4.50998,12.8484 0,5.9148 -1.70294,10.6906 -5.10872,14.3271 -3.37922,3.6146 -7.83604,5.4219 -13.37046,5.4219 -5.13538,0 -9.40595,-1.6211 -12.81173,-4.8633 l -0.95792,4.4361 -6.90473,0 m 7.86265,-8.9051 c 4.04437,2.9793 7.90251,4.469 11.57445,4.469 3.61863,0 6.41247,-1.2377 8.38151,-3.7132 1.96891,-2.4974 2.95343,-6.0025 2.95348,-10.5153 -5e-5,-8.3684 -3.35262,-12.5526 -10.0578,-12.5526 -4.39036,0 -8.67424,1.9607 -12.85164,5.882 l 0,16.4301"
-         id="path4066" />
-      <text
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         transform="matrix(0.98880005,-0.03643632,0,1.0113268,0,0)"
-         sodipodi:linespacing="125%"
-         id="text4068"
-         y="777.73206"
-         x="508.20975"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.96607208px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#db6d1e;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan4070"
-           x="508.20975"
-           y="777.73206">service</tspan></text>
-      <path
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:connector-curvature="0"
-         id="path4072"
-         d="m 416.06778,672.51921 c -16.69143,0.7672 -30.24284,14.7731 -30.36024,31.4817 l -0.48065,60.32 c -0.1175,16.7087 14.54996,35.3731 31.24144,34.6059 l 44.77935,-7.9305 c 9.60977,-0.4417 18.14821,-5.348 23.71147,-12.5767 2.92823,-1.636 5.28671,-3.8132 6.96925,-6.809 2.52375,-4.4937 3.60475,-10.6074 3.60475,-19.3857 l 0.24033,-36.1279 c 0,-14.08 -4.92311,-23.3542 -12.25626,-27.9571 -5.38804,-4.7525 -12.9068,-9.416 -21.38833,-10.6541 l -46.06111,-4.9666 z m 10.81433,10.8143 0.0801,0 49.98629,4.6462 0.0801,0 c 9.32405,2.5486 16.26155,11.2744 16.26155,28.1173 l -0.24026,36.1279 c 0,8.5697 -1.09702,14.2895 -3.28435,18.1841 -2.14758,3.8239 -5.4026,6.0421 -10.1735,7.6101 l -0.0801,0 -52.54971,5.9279 c -0.0247,0 -0.0554,2e-4 -0.0801,0 -4.19431,-0.036 -8.13507,-3.1012 -11.13472,-8.4913 -3.01737,-5.4219 -4.8865,-13.0621 -4.8865,-21.5486 l 0,-40.5337 c 0,-8.4865 1.86913,-16.1267 4.8865,-21.5486 2.99965,-5.3901 6.94037,-8.4554 11.13472,-8.4913 z"
-         style="fill:#db6d1e;fill-opacity:1;stroke:none" />
-    </g>
-    <g
-       id="g4398">
-      <rect
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42118204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4355"
-         width="286.51059"
-         height="191.87157"
-         x="373.70386"
-         y="0.46001336" />
-      <g
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         id="g4014"
-         transform="matrix(2.527624,0,0,2.527624,-607.98876,-1032.5882)"
-         style="opacity:0.14661656;fill:#cc00eb;fill-opacity:1">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#cc00eb;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 446.5572,430.31382 c 0,0 -1.13654,-1.49754 -3.15871,-1.90196 -1.16419,-0.23286 -13.19559,-1.61037 -15.11638,-0.9518 -2.8458,0.9757 -3.80283,4.52335 -3.84161,6.0368 l 0,16.40917 c 0.49392,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73106 14.48836,-1.81102 1.70127,-0.43905 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.1649,2.69593 -2.63423,3.8965 -1.26227,0.93296 -1.53666,0.7683 -2.08545,0.93296 -1.37579,0.41272 -12.72434,2.60423 -13.99445,2.68912 -4.55505,0.27439 -9.8235,-3.15432 -9.94271,-7.55853 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71968 9.22213,-7.49033 1.74628,0.11642 13.2498,1.78165 14.80205,2.05329 3.69896,0.64732 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           id="path4016"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#cc00eb;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 465.48248,441.96016 c 0,0 -1.13653,-1.49754 -3.1587,-1.90196 -1.16419,-0.23285 -13.19559,-1.61037 -15.11639,-0.9518 -2.84579,0.97571 -3.80282,4.52336 -3.84161,6.0368 l 0,16.40918 c 0.49392,4.50016 3.39093,6.24555 4.55506,6.25631 -0.0549,0 14.1785,-1.73106 14.48835,-1.81101 1.70127,-0.43906 2.68913,-2.08546 2.68913,-2.08546 0,0 -1.1649,2.69593 -2.63424,3.8965 -1.26226,0.93296 -1.53665,0.7683 -2.08545,0.93296 -1.37578,0.41272 -12.72434,2.60424 -13.99445,2.68913 -4.55505,0.27438 -9.8235,-3.15433 -9.94271,-7.55854 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.7821,-7.71967 9.22213,-7.49032 1.74627,0.11641 13.2498,1.78165 14.80204,2.05328 3.69897,0.64733 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           id="path4018"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#cc00eb;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 435.63877,452.15071 c 0,0 -1.13654,-1.49755 -3.15871,-1.90197 -1.16419,-0.23285 -13.19559,-1.61037 -15.11638,-0.95179 -2.8458,0.97569 -3.80283,4.52335 -3.84161,6.03679 l 0,16.40918 c 0.49391,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73107 14.48836,-1.81103 1.70127,-0.43904 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.16491,2.69593 -2.63423,3.8965 -1.26227,0.93297 -1.53666,0.76831 -2.08546,0.93297 -1.37578,0.41271 -12.72433,2.60422 -13.99445,2.68911 -4.55505,0.2744 -9.82349,-3.15432 -9.9427,-7.55852 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71969 9.22213,-7.49034 1.74628,0.11642 13.2498,1.78166 14.80205,2.0533 3.69896,0.64732 4.85607,3.32495 4.85607,3.32495 l 0.21954,0.60369 z"
-           id="path4020"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-      </g>
-      <text
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         transform="scale(1.1020865,0.9073698)"
-         sodipodi:linespacing="125%"
-         id="text4022"
-         y="87.343948"
-         x="456.78491"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16808319px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cc00eb;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#cc00eb;fill-opacity:1"
-           y="87.343948"
-           x="456.78491"
-           id="tspan4024"
-           sodipodi:role="line">info</tspan></text>
-      <path
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:connector-curvature="0"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cc00eb;fill-opacity:1;stroke:none"
-         d="m 435.87727,98.38654 0,-52.280713 7.86265,0 0,22.903623 c 3.21953,-4.994743 8.04889,-7.492103 14.48801,-7.492153 5.2151,5e-5 9.31274,1.56639 12.29292,4.699013 3.00659,3.13273 4.50998,7.41553 4.50998,12.8484 0,5.91484 -1.70294,10.69055 -5.10872,14.32707 -3.37922,3.61465 -7.83604,5.42195 -13.37046,5.42195 -5.13538,0 -9.40595,-1.62109 -12.81173,-4.86331 l -0.95792,4.43612 -6.90473,0 m 7.86265,-8.90512 c 4.04437,2.97933 7.90251,4.469 11.57445,4.469 3.61863,0 6.41247,-1.23773 8.38151,-3.71321 1.96891,-2.49737 2.95343,-6.00248 2.95348,-10.51529 -5e-5,-8.3684 -3.35262,-12.55261 -10.0578,-12.55266 -4.39036,5e-5 -8.67424,1.96072 -12.85164,5.88202 l 0,16.43014"
-         id="path4026" />
-      <text
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         transform="matrix(0.98880005,-0.03643632,0,1.0113268,0,0)"
-         sodipodi:linespacing="125%"
-         id="text4028"
-         y="125.12379"
-         x="508.20981"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.96607208px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cc00eb;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan4030"
-           x="508.20981"
-           y="125.12379">service</tspan></text>
-      <path
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:connector-curvature="0"
-         id="path4032"
-         d="m 416.06778,12.519197 c -16.69143,0.76717 -30.24284,14.7731 -30.36024,31.48174 l -0.48065,60.319983 c -0.1175,16.70869 14.54996,35.37309 31.24144,34.60589 l 44.77935,-7.9305 c 9.60977,-0.4417 18.14821,-5.348 23.71147,-12.57666 2.92823,-1.63603 5.28671,-3.81322 6.96925,-6.80904 2.52375,-4.49372 3.60475,-10.60736 3.60475,-19.38571 l 0.24033,-36.127913 c 0,-14.07994 -4.92311,-23.35419 -12.25626,-27.95708 -5.38804,-4.75247 -12.9068,-9.41598 -21.38833,-10.65413 l -46.06111,-4.96658 z m 10.81433,10.81434 0.0801,0 49.98629,4.64616 0.0801,0 c 9.32405,2.5486 16.26155,11.27442 16.26155,28.11729 L 493.04989,92.2249 c 0,8.56975 -1.09702,14.28947 -3.28435,18.18412 -2.14758,3.82385 -5.4026,6.04207 -10.1735,7.61008 l -0.0801,0 -52.54971,5.92791 c -0.0247,0 -0.0554,2e-4 -0.0801,0 -4.19431,-0.036 -8.13507,-3.1012 -11.13472,-8.49132 -3.01737,-5.42188 -4.8865,-13.06205 -4.8865,-21.54856 l 0,-40.533763 c 0,-8.48649 1.86913,-16.1267 4.8865,-21.54857 2.99965,-5.39014 6.94037,-8.4554 11.13472,-8.49126 z"
-         style="fill:#cc00eb;fill-opacity:1;stroke:none" />
-    </g>
-    <g
-       id="g4450">
-      <rect
-         y="220.46001"
-         x="373.70386"
-         height="191.87157"
-         width="286.51059"
-         id="rect4357"
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.42118204;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-ydpi="60.065289" />
-      <g
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         id="g3974"
-         transform="matrix(2.527624,0,0,2.527624,-607.98876,-812.58817)"
-         style="opacity:0.14661656;fill:#327ca9;fill-opacity:1">
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#327ca9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 446.5572,430.31382 c 0,0 -1.13654,-1.49754 -3.15871,-1.90196 -1.16419,-0.23286 -13.19559,-1.61037 -15.11638,-0.9518 -2.8458,0.9757 -3.80283,4.52335 -3.84161,6.0368 l 0,16.40917 c 0.49392,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73106 14.48836,-1.81102 1.70127,-0.43905 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.1649,2.69593 -2.63423,3.8965 -1.26227,0.93296 -1.53666,0.7683 -2.08545,0.93296 -1.37579,0.41272 -12.72434,2.60423 -13.99445,2.68912 -4.55505,0.27439 -9.8235,-3.15432 -9.94271,-7.55853 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71968 9.22213,-7.49033 1.74628,0.11642 13.2498,1.78165 14.80205,2.05329 3.69896,0.64732 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           id="path3976"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#327ca9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 465.48248,441.96016 c 0,0 -1.13653,-1.49754 -3.1587,-1.90196 -1.16419,-0.23285 -13.19559,-1.61037 -15.11639,-0.9518 -2.84579,0.97571 -3.80282,4.52336 -3.84161,6.0368 l 0,16.40918 c 0.49392,4.50016 3.39093,6.24555 4.55506,6.25631 -0.0549,0 14.1785,-1.73106 14.48835,-1.81101 1.70127,-0.43906 2.68913,-2.08546 2.68913,-2.08546 0,0 -1.1649,2.69593 -2.63424,3.8965 -1.26226,0.93296 -1.53665,0.7683 -2.08545,0.93296 -1.37578,0.41272 -12.72434,2.60424 -13.99445,2.68913 -4.55505,0.27438 -9.8235,-3.15433 -9.94271,-7.55854 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.7821,-7.71967 9.22213,-7.49032 1.74627,0.11641 13.2498,1.78165 14.80204,2.05328 3.69897,0.64733 4.85608,3.32495 4.85608,3.32495 l 0.21953,0.60369 z"
-           id="path3978"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-        <path
-           inkscape:connector-curvature="0"
-           style="fill:#327ca9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           d="m 435.63877,452.15071 c 0,0 -1.13654,-1.49755 -3.15871,-1.90197 -1.16419,-0.23285 -13.19559,-1.61037 -15.11638,-0.95179 -2.8458,0.97569 -3.80283,4.52335 -3.84161,6.03679 l 0,16.40918 c 0.49391,4.50016 3.39092,6.24556 4.55505,6.25632 -0.0549,0 14.17851,-1.73107 14.48836,-1.81103 1.70127,-0.43904 2.68912,-2.08545 2.68912,-2.08545 0,0 -1.16491,2.69593 -2.63423,3.8965 -1.26227,0.93297 -1.53666,0.76831 -2.08546,0.93297 -1.37578,0.41271 -12.72433,2.60422 -13.99445,2.68911 -4.55505,0.2744 -9.82349,-3.15432 -9.9427,-7.55852 -0.0549,-2.25007 -0.0588,-20.40371 -0.0588,-20.40371 0,-5.00598 5.78211,-7.71969 9.22213,-7.49034 1.74628,0.11642 13.2498,1.78166 14.80205,2.0533 3.69896,0.64732 4.85607,3.32495 4.85607,3.32495 l 0.21954,0.60369 z"
-           id="path3980"
-           sodipodi:nodetypes="ccccccccccccccccc"
-           inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
-           inkscape:export-xdpi="203.55"
-           inkscape:export-ydpi="203.55" />
-      </g>
-      <text
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         transform="scale(1.1020865,0.9073698)"
-         sodipodi:linespacing="125%"
-         id="text3982"
-         y="329.80298"
-         x="456.78494"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16808319px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#327ca9;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#327ca9;fill-opacity:1"
-           y="329.80298"
-           x="456.78494"
-           id="tspan3984"
-           sodipodi:role="line">info</tspan></text>
-      <path
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:connector-curvature="0"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#327ca9;fill-opacity:1;stroke:none"
-         d="m 435.87727,318.38651 0,-52.2807 7.86265,0 0,22.9036 c 3.21953,-4.9947 8.04889,-7.4921 14.48801,-7.4921 5.2151,0 9.31274,1.5664 12.29292,4.699 3.00659,3.1327 4.50998,7.4155 4.50998,12.8484 0,5.9148 -1.70294,10.6906 -5.10872,14.3271 -3.37922,3.6146 -7.83604,5.4219 -13.37046,5.4219 -5.13538,0 -9.40595,-1.6211 -12.81173,-4.8633 l -0.95792,4.4361 -6.90473,0 m 7.86265,-8.9051 c 4.04437,2.9793 7.90251,4.469 11.57445,4.469 3.61863,0 6.41247,-1.2377 8.38151,-3.7132 1.96891,-2.4974 2.95343,-6.0025 2.95348,-10.5153 -5e-5,-8.3684 -3.35262,-12.5526 -10.0578,-12.5526 -4.39036,0 -8.67424,1.9607 -12.85164,5.882 l 0,16.4301"
-         id="path3986" />
-      <text
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         transform="matrix(0.98880005,-0.03643632,0,1.0113268,0,0)"
-         sodipodi:linespacing="125%"
-         id="text3988"
-         y="342.66016"
-         x="508.20975"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.96607208px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#327ca9;fill-opacity:1;stroke:none"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan3990"
-           x="508.20975"
-           y="342.66016">service</tspan></text>
-      <path
-         inkscape:export-ydpi="60.065289"
-         inkscape:export-xdpi="60.065289"
-         inkscape:export-filename="/Users/bruno/Desktop/logo.png"
-         inkscape:connector-curvature="0"
-         id="path3992"
-         d="m 416.06778,232.51921 c -16.69143,0.7672 -30.24284,14.7731 -30.36024,31.4817 l -0.48065,60.32 c -0.1175,16.7087 14.54996,35.3731 31.24144,34.6059 l 44.77935,-7.9305 c 9.60977,-0.4417 18.14821,-5.348 23.71147,-12.5767 2.92823,-1.636 5.28671,-3.8132 6.96925,-6.809 2.52375,-4.4937 3.60475,-10.6074 3.60475,-19.3857 l 0.24033,-36.1279 c 0,-14.08 -4.92311,-23.3542 -12.25626,-27.9571 -5.38804,-4.7525 -12.9068,-9.416 -21.38833,-10.6541 l -46.06111,-4.9666 z m 10.81433,10.8143 0.0801,0 49.98629,4.6462 0.0801,0 c 9.32405,2.5486 16.26155,11.2744 16.26155,28.1173 l -0.24026,36.1279 c 0,8.5697 -1.09702,14.2895 -3.28435,18.1841 -2.14758,3.8239 -5.4026,6.0421 -10.1735,7.6101 l -0.0801,0 -52.54971,5.9279 c -0.0247,0 -0.0554,2e-4 -0.0801,0 -4.19431,-0.036 -8.13507,-3.1012 -11.13472,-8.4913 -3.01737,-5.4219 -4.8865,-13.0621 -4.8865,-21.5486 l 0,-40.5337 c 0,-8.4865 1.86913,-16.1267 4.8865,-21.5486 2.99965,-5.3901 6.94037,-8.4554 11.13472,-8.4913 z"
-         style="fill:#327ca9;fill-opacity:1;stroke:none" />
-    </g>
+     transform="translate(-3.1704713,0.96732315)">
+    <rect
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.27119824;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4367"
+       width="192.61108"
+       height="197.87291"
+       x="21.022606"
+       y="16.884811" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4369"
+       d="m 41.393758,154.4825 0,-52.28071 7.86265,0 0,22.90362 c 3.21953,-4.99474 8.048893,-7.4921 14.488012,-7.49215 5.2151,5e-5 9.31274,1.56639 12.29292,4.69901 3.00659,3.13273 4.50998,7.41553 4.50998,12.8484 0,5.91484 -1.70294,10.69055 -5.10872,14.32707 -3.37922,3.61465 -7.83604,5.42195 -13.37046,5.42195 -5.135379,0 -9.405952,-1.62109 -12.811732,-4.86331 l -0.95792,4.43612 -6.90473,0 m 7.86265,-8.90512 c 4.04437,2.97933 7.902513,4.469 11.574452,4.469 3.61863,0 6.41247,-1.23773 8.38151,-3.71321 1.96891,-2.49737 2.95343,-6.00248 2.95348,-10.51529 -5e-5,-8.3684 -3.35262,-12.55261 -10.0578,-12.55266 -4.390359,5e-5 -8.674242,1.96072 -12.851642,5.88202 l 0,16.43014"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16808319px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="83.749809"
+       y="166.80547"
+       id="text4371"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1020865,0.9073698)"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55"><tspan
+         sodipodi:role="line"
+         id="tspan4373"
+         x="83.749809"
+         y="166.80547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#ffffff;fill-opacity:1">info</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.96625137px;line-height:125%;font-family:'Apple LiGothic';-inkscape-font-specification:'Apple LiGothic, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       x="35.801743"
+       y="190.66068"
+       id="text4375"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.98880005,0.00620692,0,1.0113268,0,0)"
+       inkscape:export-filename="C:\Documents and Settings\Claverie Marc\Bureau\b-info.png"
+       inkscape:export-xdpi="203.55"
+       inkscape:export-ydpi="203.55"
+       inkscape:transform-center-x="1.0523622"
+       inkscape:transform-center-y="23.151968"><tspan
+         y="190.66068"
+         x="35.801743"
+         id="tspan4377"
+         sodipodi:role="line">service</tspan></text>
+    <rect
+       y="16.884811"
+       x="261.02261"
+       height="197.87291"
+       width="192.61108"
+       id="rect4379"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:0.27119824;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 291.9225,189.85341 0,-102.3847 15.39794,0 0,44.85364 c 6.30501,-9.78152 15.76266,-14.67226 28.3728,-14.67236 10.21307,1e-4 18.23774,3.06757 24.07402,9.20238 5.888,6.13503 8.83219,14.52232 8.83219,25.16186 0,11.5834 -3.33498,20.93599 -10.00474,28.05762 -6.61774,7.0788 -15.34582,10.61815 -26.18423,10.61815 -10.05695,0 -18.42028,-3.17468 -25.09004,-9.52413 l -1.87596,8.68754 -13.52198,0 m 15.39794,-17.43948 c 7.92035,5.83462 15.47599,8.75194 22.66699,8.75194 7.0866,0 12.55795,-2.42393 16.41405,-7.27182 3.85585,-4.89076 5.7839,-11.75504 5.78399,-20.59277 -9e-5,-16.38838 -6.56565,-24.58259 -19.69684,-24.58269 -8.59792,1e-4 -16.98732,3.83981 -25.16819,11.51914 l 0,32.17621"
+       id="path4381"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="opacity:1;fill:#ba7301;fill-opacity:1;stroke:#000000;stroke-width:0.27119824;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4383"
+       width="192.61108"
+       height="197.87291"
+       x="501.02258"
+       y="16.884811" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4385"
+       d="m 531.9225,189.85341 0,-102.3847 15.39794,0 0,44.85364 c 6.30501,-9.78152 15.76266,-14.67226 28.3728,-14.67236 10.21307,1e-4 18.23774,3.06757 24.07402,9.20238 5.888,6.13503 8.83219,14.52232 8.83219,25.16186 0,11.5834 -3.33498,20.93599 -10.00474,28.05762 -6.61774,7.0788 -15.34582,10.61815 -26.18423,10.61815 -10.05695,0 -18.42028,-3.17468 -25.09004,-9.52413 l -1.87596,8.68754 -13.52198,0 m 15.39794,-17.43948 c 7.92035,5.83462 15.47599,8.75194 22.66699,8.75194 7.0866,0 12.55795,-2.42393 16.41405,-7.27182 3.85585,-4.89076 5.7839,-11.75504 5.78399,-20.59277 -9e-5,-16.38838 -6.56565,-24.58259 -19.69684,-24.58269 -8.59792,1e-4 -16.98732,3.83981 -25.16819,11.51914 l 0,32.17621"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:81.36701965px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   </g>
 </svg>

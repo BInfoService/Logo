@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="107.08581mm"
-   height="38.502209mm"
+   width="522.55188"
+   height="137.88579"
    id="svg4993"
    sodipodi:version="0.32"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="logo_v4.0.0.svg"
+   sodipodi:docname="logo_v2.4.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    inkscape:export-filename="/Users/brunoboissonnet/Documents/binfoservice/logo/logo_v2.2.png"
    inkscape:export-xdpi="80.800003"
@@ -37,23 +37,44 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4777965"
-     inkscape:cx="206.23496"
-     inkscape:cy="116.38953"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="356.57381"
+     inkscape:cy="87.8672"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="993"
-     inkscape:window-height="748"
-     inkscape:window-x="871"
-     inkscape:window-y="101"
+     inkscape:window-width="1280"
+     inkscape:window-height="756"
+     inkscape:window-x="260"
+     inkscape:window-y="1"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       orientation="1,0"
+       position="-72.435027,12.100571"
+       id="guide4180" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="563.56409,6.5378711e-05"
+       id="guide4182" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="8.7750244e-07,137.88588"
+       id="guide3213" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="8.7750244e-07,234.75951"
+       id="guide3217" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="522.5519,233.3453"
+       id="guide3219" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4998">
     <rdf:RDF>
@@ -70,34 +91,41 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-88.136448,-863.19511)">
+     transform="translate(-13.435027,-904.57697)">
     <rect
-       y="863.87994"
-       x="88.821281"
-       height="135.05548"
-       width="378.06824"
+       y="65.115509"
+       x="307.8038"
+       height="170.85933"
+       width="325.76495"
        id="rect3449"
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.36966765;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.43003118;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1"
+       id="rect3031"
+       width="522.55188"
+       height="137.88579"
+       x="13.435027"
+       y="904.57697" />
     <flowRoot
        inkscape:export-ydpi="89"
        inkscape:export-xdpi="89"
        inkscape:export-filename="/Users/brunoboissonnet/Documents/autoentrepreneur/site/css/images/slogan2.png"
        xml:space="preserve"
        id="flowRoot6449"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9327755px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#28170b;fill-opacity:1;stroke:none"
-       transform="matrix(1.1691625,0,0,1.1691625,-55.610861,902.76752)"><flowRegion
+       style="font-size:19.9327755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+       transform="matrix(1.1691625,0,0,1.1691625,-158.14134,944.48687)"><flowRegion
          id="flowRegion6451"><rect
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.9327755px;line-height:125%;font-family:Georgia;-inkscape-font-specification:'Georgia Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#28170b"
+           style="font-size:19.9327755px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
            id="rect6453"
-           width="281.41306"
-           height="35.228901"
+           width="440.47485"
+           height="27.366528"
            x="152.56673"
            y="52.237518" /></flowRegion><flowPara
-         id="flowPara6459">Votre informaticien à domicile</flowPara></flowRoot>    <text
+         id="flowPara6459">Votre informaticien à domicile autour des Angles</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.16809082px;line-height:125%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#008080;fill-opacity:1;stroke:none"
-       x="169.18513"
-       y="1028.5547"
+       style="font-size:74.16809082px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#008080;fill-opacity:1;stroke:none;font-family:Trebuchet MS;-inkscape-font-specification:Trebuchet MS"
+       x="101.17476"
+       y="1073.7538"
        id="text6698"
        sodipodi:linespacing="125%"
        transform="scale(1.1020865,0.9073698)"
@@ -106,18 +134,18 @@
        inkscape:export-ydpi="203.55"><tspan
          sodipodi:role="line"
          id="tspan6700"
-         x="169.18513"
-         y="1028.5547"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.57026291px;font-family:'Lucida Sans Unicode';-inkscape-font-specification:'Lucida Sans Unicode';fill:#008080;fill-opacity:1">info</tspan></text>
+         x="101.17476"
+         y="1073.7538"
+         style="font-size:48.57026291px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#008080;fill-opacity:1;font-family:Lucida Sans Unicode;-inkscape-font-specification:Lucida Sans Unicode">info</tspan></text>
     <path
        style="fill:#008080;fill-opacity:1;stroke:none"
-       d="m 98.88614,884.24832 76.45544,5.40594 -2,63.87129 -74.45544,7.95049 z"
+       d="m 23.932823,925.26057 76.455437,5.40594 -1.999997,63.87129 -74.45544,7.9505 z"
        id="rect4073"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 107.865,877.49718 72.27,5.11 0,61.32 -72.27,6.57 z"
+       d="m 32.911683,918.50943 72.269997,5.11 0,61.32 -72.269997,6.57 z"
        id="path4274"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -125,31 +153,31 @@
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path4076"
-       d="m 109.865,875.49718 72.27,5.11 0,61.32 -72.27,6.57 z"
+       d="m 34.911683,916.50943 72.269997,5.11 0,61.32 -72.269997,6.57 z"
        style="fill:#e79e1d;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008080;fill-opacity:1;stroke:none"
-       x="291.67114"
-       y="933.89423"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#008080;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="216.71782"
+       y="974.90649"
        id="text4211"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4213"
-         x="291.67114"
-         y="933.89423">Service</tspan></text>
+         x="216.71782"
+         y="974.90649">Service</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4276"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       transform="matrix(2.3632151,-0.18776232,0,1.3136268,-760.28076,-146.03617)"><flowRegion
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       transform="matrix(2.3632151,-0.18776232,0,1.3136268,-835.23408,-105.02392)"><flowRegion
          id="flowRegion4278"><rect
            id="rect4280"
            width="183.14064"
            height="89.802551"
            x="370.52396"
            y="835.2804"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff" /></flowRegion><flowPara
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans" /></flowRegion><flowPara
          id="flowPara4283"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">b</flowPara></flowRoot>  </g>
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;font-family:Sans;-inkscape-font-specification:Sans">b</flowPara></flowRoot>  </g>
 </svg>

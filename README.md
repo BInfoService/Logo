@@ -12,7 +12,7 @@ Tous les logos ont été créés à l'aide du logiciel [Inkscape](https://inksca
 
 ## Versions
 
-Nous utilisons [SemVer](http://semver.org/) pour le versionnement. Pour les versions diponibles, voir les [tags sur ce dépôt](https://github.com/your/project/tags). 
+Nous utilisons [SemVer](http://semver.org/) pour le versionnement. Pour les versions diponibles, voir les [tags sur ce dépôt](https://github.com/BInfoService/Logo/tags). 
 
 ## Auteur
 
